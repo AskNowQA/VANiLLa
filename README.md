@@ -31,7 +31,11 @@ Dataset_SimpleQA_first1000_labels.json : Dataset containing 1000 Simple question
 labels.py : code to fetch the Dataset_SimpleQA_first1000_labels.json
 
 
-term-count.py: Calculates the word count for all 200 questions for all 50 relations
+term-count.py: Calculates the word count for 200 questions for all 50 relations
 
-folder Term_Count : contains csv files of term_count for every relation 
+folder Term_Count : contains csv files of term_count for every relation on 200 questions 
 
+
+term-count_all.py: Calculates the word count for all questions for all 50 relations
+
+folder Term_Count_All : contains csv files of term_count for every relation on all questions
