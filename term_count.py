@@ -10,7 +10,7 @@ tab = json_normalize(dataset_decode)
 distribution = pd.read_csv("relation_distribution.csv",sep='|').head(50)
 
 for rel in distribution['rel']:
-	tab_questions = tab[tab.relation == rel]['question'].head(200)
+	tab_questions = tab[tab.relation == rel]['question']
 	question = ""
 	for q in tab_questions:
 		question += q + " "
