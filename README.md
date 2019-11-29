@@ -20,6 +20,7 @@ dataset_first1000.py : code to fetch Dataset_SimDataset_SimpleQA_first1000.py
 
 
 Dataset_SimpleQA.json : Dataset containing 10000 Simple questions from CSQA with labels for relation, entity, type_list (50 relations and 200 questions for each)
+
 {"answer":"association football player","answer_entity":["Q937857"],"entity":["Q5984210"],"question":"What does Luis Quijanes do for a living ?","question_id":6,"relation":"P106","relation_label":"occupation","type_list":"Q12737077","entity_labels":["Luis Quijanes"],"type_list_label":"occupation"}
 
 labels.py : code to fetch the Dataset_SimpleQA.json
