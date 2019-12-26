@@ -15,20 +15,6 @@ def getLabels(qid):
 
 	except Exception as e:
     		print("type error: " + str(e)) 
-
-def getQualifierInfo(sub_id, rel_id, obj_id):
-	query = "PREFIX ps: <http://www.wikidata.org/prop/statement/> PREFIX wd: <http://www.wikidata.org/entity/> PREFIX p: <http://www.wikidata.org/prop/> SELECT ?q ?t WHERE { wd:"+sub_id+" p:"+rel_id+"  ?s . ?s ps:"+rel_id+" wd:"+obj_id+" . ?s  ?q ?t  . FILTER NOT EXISTS { FILTER(regex(str(?q),\"value\")||regex(str(?q),\"w3\") ||regex(str(?q),\"wikiba.se\")||?t=wd:"+obj_id+") } }"
-	sparql = SPARQLWrapper("http://query.wikidata.org/sparql", agent = 'Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36')
-	sparql.setQuery(query)
-
-	try:
-		sparql.setReturnFormat(JSON)
-		qualifiers = sparql.query().convert()
-		for qualifier in qualifiers["results"]["bindings"]:
-			 print((qualifier["q"]["value"],qualifier["t"]["value"]))
-	except Exception as e:
-        	print("type error: " + str(e))
-
 """
 dataset_file = open('Dataset_test.json','r')
 dataset_decode = json.load(dataset_file)
@@ -115,6 +101,5 @@ final_labels_tab.to_json(r'Dataset_SimpleQA_labels_all.json',orient='records')
 
 print(final_labels_tab.head(5))
 
-#getQualifierInfo("Q202735","P1411","Q107258")
 print("Done")
 
