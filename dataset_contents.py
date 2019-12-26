@@ -77,7 +77,7 @@ for entity_list in final_tab_type['entity']:
 		entity_label.append(label)	
 	final_tab_type.set_value(i,'entity_labels', entity_label)
 	i=i+1
-final_tab_type.to_json(r'Dataset_SimpleQA_type_labels.json',orient='records')
+final_tab_type.to_json(r'Dataset_SimpleQA_entity_labels.json',orient='records')
 
 print(final_tab_type.head(5))
 
@@ -94,7 +94,7 @@ for wikidata_type in final_tab_type['type_list']:
 final_tab_type.to_json(r'Dataset_SimpleQA_type_labels.json',orient='records')
 
 """
-dataset_file = open('Dataset_SimpleQA_entity_labels.json','r')
+dataset_file = open('Dataset_SimpleQA_type_labels.json','r')
 dataset_decode = json.load(dataset_file)
 final_tab_answer = json_normalize(dataset_decode)
 
