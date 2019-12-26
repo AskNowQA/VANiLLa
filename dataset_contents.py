@@ -111,7 +111,7 @@ for answer_entity_list in final_tab_answer['answer_entity']:
         i=i+1
 
 final_labels_tab = final_tab_answer.drop(["answer"],axis=1)
-final_labels_tab.to_json(r'Dataset_SimpleQA_labels.json',orient='records')
+final_labels_tab.to_json(r'Dataset_SimpleQA_labels_all.json',orient='records')
 
 print(final_labels_tab.head(5))
 
