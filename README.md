@@ -44,7 +44,7 @@ Dataset_SimpleQA_labels_all.json: The dataset with all the labels.
 
 Dataset_SimpleQA_labels.json, Dataset_SimpleQA_rel_labels.json, Dataset_SimpleQA_entity_labels.json, Dataset_SimpleQA_type_labels.json: Some Temporary files
 
-final_dataset.py and dataset_contents.py : code to fetch the Dataset_SimpleQA_labels_all.json 
+dataset_contents.py : code to fetch the Dataset_SimpleQA_labels_all.json 
 
 
 
