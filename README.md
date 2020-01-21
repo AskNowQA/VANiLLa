@@ -50,4 +50,56 @@ Dataset_SimpleQA_rel_labels.json, Dataset_SimpleQA_entity_labels.json, Dataset_S
 dataset_contents.py : code to fetch the Dataset_SimpleQA_labels_all.json 
 
 
+Dataset_SimpleQA_qualifiers.json : contains 64371 questions with all labels and qualifier information
 
+(without Qualifier info) :
+
+{
+    "question_relation_label": "occupation",
+    "question": "What is the job of Carlos Ruiz Ar\u00e1nega ?",
+    "question_entity_label": "Carlos Ruiz Ar\u00e1nega",
+    "type_list": "Q12737077",
+    "question_entity": "Q5042595",
+    "answer_entity_list": [
+      "Q937857"
+    ],
+    "answer_entity_labels": [
+      "association football player"
+    ],
+    "type_list_label": "occupation",
+    "qualifier_info": NaN,
+    "question_relation": "P106",
+    "question_id": 56965
+  }
+
+(with Qualifier info):
+
+{
+    "question_relation_label": "molecular function",
+    "question": "Which chemical bond represents molecular function of cyclic 3',5'-adenosine monophosphate phosphodiesterase    SDY_3208 ?",
+    "question_entity_label": "Cyclic 3',5'-adenosine monophosphate phosphodiesterase SDY_3208",
+    "type_list": "Q44424",
+    "question_entity": "Q27474840",
+    "answer_entity_list": [
+      "Q13667380"
+    ],
+    "answer_entity_labels": [
+      "metal ion binding"
+    ],
+    "type_list_label": "chemical bond",
+    "qualifier_info": {
+      "0": {
+        "0": {
+          "qualifier_pred": "P459",
+          "qualifier_pred_label": "determination method",
+          "qualifier_value_label": "IEA",
+          "qualifier_value": "Q23190881"
+        },
+        "object": "Q13667380"
+      }
+    },
+    "question_relation": "P680",
+    "question_id": 56961
+  }
+
+dataset_qualifier.py : code to create Dataset_SimpleQA_qualifiers.json 
