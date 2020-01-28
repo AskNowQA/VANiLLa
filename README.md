@@ -102,4 +102,8 @@ Dataset_SimpleQA_qualifiers.json : contains 64371 questions with all labels and 
     "question_id": 56961
   }
 
-dataset_qualifier.py : code to create Dataset_SimpleQA_qualifiers.json 
+dataset_qualifier.py : code to create Dataset_SimpleQA_qualifiers.json
+
+Dataset_SimpleQA_qualifiers_2500.json: Sample Dataset of 2500 questions (top 50 relations each having 50 questions)  
+
+dataset_qualifier_2500.py :fetching 2500 question for the top 50 relations(each have 50 questons) to create Dataset_SimpleQA_qualifiers_2500.json 
