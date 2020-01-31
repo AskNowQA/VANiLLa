@@ -107,3 +107,8 @@ dataset_qualifier.py : code to create Dataset_SimpleQA_qualifiers.json
 Dataset_SimpleQA_qualifiers_2500.json: Sample Dataset of 2500 questions (top 50 relations each having 50 questions)  
 
 dataset_qualifier_2500.py :fetching 2500 question for the top 50 relations(each have 50 questons) to create Dataset_SimpleQA_qualifiers_2500.json 
+
+Dataset_AMT.csv : csv file containing 1922 questions (961 lines each line having 2 questions) without questions with multiple answers 
+Format : index,UID1,Ques1,Ans1,UID2,Ques2,Ans2
+
+dataset_csv.py : code to create Dataset_AMT.csv file
