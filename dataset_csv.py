@@ -1,6 +1,7 @@
 import pandas as pd
 from pandas.io.json import json_normalize
 import json
+import csv
 
 dataset_file = open('Dataset_SimpleQA_qualifiers_2500.json','r')
 dataset_decode = json.load(dataset_file)
@@ -39,7 +40,7 @@ print(tab2.head(3))
 final_tab = tab1.join(tab2)
 print (list(final_tab.columns))
 
-final_tab.to_csv(r'Dataset_AMT.csv',encoding = 'utf-8')
+final_tab.to_csv(r'Dataset_AMT.csv',encoding = 'utf-8',quoting = csv.QUOTE_ALL, index_label = 'Index')
 
 print(final_tab.head(3))
 print(final_tab.describe)
