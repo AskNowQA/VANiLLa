@@ -116,7 +116,7 @@ Format : "Index","UID1","Ques1","Ans1","UID2","Ques2","Ans2"
 Dataset_batch2_AMT.csv : csv file containing 1922 questions (961 lines each line having 2 questions) without questions with multiple answers
 Format : "Index","UID1","Ques1","Ans1","UID2","Ques2","Ans2"
 
-dataset_csv.py : code to create csv file for AMT task. Change parameters and file names to create the different csv files for the different experiment.
+dataset_csv.py : code to create csv file for AMT task. Change file names to create the different csv files for the different experiment.
 
 Batch_1_results.csv: csv file created from first batch of AMT experiment
 
