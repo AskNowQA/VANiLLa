@@ -112,3 +112,9 @@ Dataset_AMT.csv : csv file containing 1922 questions (961 lines each line having
 Format : "Index","UID1","Ques1","Ans1","UID2","Ques2","Ans2"
 
 dataset_csv.py : code to create Dataset_AMT.csv file
+
+Batch_1_results.csv: csv file created from first batch of AMT experiment
+
+Batch_1_results.json : clear json file created from Batch_1_results.csv without metadata
+
+batch1_json.py: creating the json file from Batch_1_results.csv
