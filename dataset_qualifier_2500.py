@@ -16,6 +16,6 @@ final_questions = pd.DataFrame(columns= final_tab.columns)
 for item in distribution['rel']:
         tab_questions = final_tab[final_tab.question_relation == item].head(40) #change the value here to select the section of the questions
         final_questions = pd.concat([final_questions[:],tab_questions[:]],axis=0)
-final_questions.to_json(r'Dataset_SimpleQA_qualifiers_2000.json',orient='records')
+final_questions.to_json(r'Dataset_SimpleQA_qualifiers_2000.json',orient='records') #change the file name accordingly
 print(final_questions.head(5))
 print("Yes")

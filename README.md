@@ -106,12 +106,17 @@ dataset_qualifier.py : code to create Dataset_SimpleQA_qualifiers.json
 
 Dataset_SimpleQA_qualifiers_2500.json: Sample Dataset of 2500 questions (top 50 relations each having 50 questions)  
 
-dataset_qualifier_2500.py :fetching 2500 question for the top 50 relations(each have 50 questons) to create Dataset_SimpleQA_qualifiers_2500.json 
+Dataset_SimpleQA_qualifiers_2000.json: Sample Dataset of 2000 questions (next 50 relations that is 50-99 each having 40 questions)
 
-Dataset_AMT.csv : csv file containing 1922 questions (961 lines each line having 2 questions) without questions with multiple answers 
+dataset_qualifier_2500.py: change the parameters and file name to fetch different number of relations and questions and create separate json files. Fetching 2500 question for the top 50 relations(each have 50 questons) to create Dataset_SimpleQA_qualifiers_2500.json. Also used to create Dataset_SimpleQA_qualifiers_2000.json (next 50 relations that is 50-99 each having 40 questions) 
+
+Dataset_batch1_AMT.csv : csv file containing 1922 questions (961 lines each line having 2 questions) without questions with multiple answers 
 Format : "Index","UID1","Ques1","Ans1","UID2","Ques2","Ans2"
 
-dataset_csv.py : code to create Dataset_AMT.csv file
+Dataset_batch2_AMT.csv : csv file containing 1922 questions (961 lines each line having 2 questions) without questions with multiple answers
+Format : "Index","UID1","Ques1","Ans1","UID2","Ques2","Ans2"
+
+dataset_csv.py : code to create csv file for AMT task. Change parameters and file names to create the different csv files for the different experiment.
 
 Batch_1_results.csv: csv file created from first batch of AMT experiment
 
