@@ -1,0 +1,227 @@
+==> Loading Training Set
+Size of Training Set : 6850
+Training Set Example: {'Ans_Sen': ['leo', 'sanford', 'is', 'an', 'example', 'of', 'a', 'professional', 'american', 'football', 'player', '.'], 'Q': ['name', 'a', 'professional', 'american', 'football', 'player'], 'A': ['leo', 'sanford']}
+==> Loading Test Set
+Size of Test Set : 1712
+Test Set Example: {'Ans_Sen': ['leo', 'sanford', 'is', 'an', 'example', 'of', 'a', 'professional', 'american', 'football', 'player', '.'], 'Q': ['name', 'a', 'professional', 'american', 'football', 'player'], 'A': ['leo', 'sanford']}
+==> Building Vocabulary using Fasttext
+<torchtext.data.dataset.TabularDataset object at 0x7f3d77d921d0>
+Dataset Example: {'Ans_Sen': ['leo', 'sanford', 'is', 'an', 'example', 'of', 'a', 'professional', 'american', 'football', 'player', '.'], 'Q': ['name', 'a', 'professional', 'american', 'football', 'player'], 'A': ['leo', 'sanford']}
+<torchtext.data.dataset.TabularDataset object at 0x7f3d77d85ef0>
+Dataset Example: {'Ans_Sen': ['alic', 'in', 'wonderland', 'is', 'the', 'movie', 'directed', 'by', 'cecil', 'hepworth'], 'Q': ['what', 'is', 'a', 'movie', 'directed', 'by', 'cecil', 'hepworth'], 'A': ['alice', 'in', 'wonderland']}
+<torchtext.vocab.Vocab object at 0x7f3cfe23def0>
+==> Loading Training Set
+Size of Training Set : 6850
+Training Set Example: {'Ans_Sen': ['leo', 'sanford', 'is', 'an', 'example', 'of', 'a', 'professional', 'american', 'football', 'player', '.'], 'Q': ['name', 'a', 'professional', 'american', 'football', 'player'], 'A': ['leo', 'sanford']}
+==> Loading Test Set
+Size of Test Set : 1712
+Test Set Example: {'Ans_Sen': ['leo', 'sanford', 'is', 'an', 'example', 'of', 'a', 'professional', 'american', 'football', 'player', '.'], 'Q': ['name', 'a', 'professional', 'american', 'football', 'player'], 'A': ['leo', 'sanford']}
+==> Building Vocabulary using Fasttext
+==> Building Encoder
+==> Building Decoder
+==> Building Seq2Seq Model
+The model has 45517286 trainable parameters
+==> Start Training...
+ Start of Epoch: 01
+	Fold: 01
+	Train Loss: 9.563 | Train PPL: 14222.092
+		Val. Loss: 9.557 |  Val. PPL: 14138.925
+	Fold: 02
+	Train Loss: 9.553 | Train PPL: 14080.647
+		Val. Loss: 9.547 |  Val. PPL: 14006.978
+	Fold: 03
+	Train Loss: 9.548 | Train PPL: 14009.971
+		Val. Loss: 9.546 |  Val. PPL: 13991.526
+	Fold: 04
+	Train Loss: 9.547 | Train PPL: 14004.785
+		Val. Loss: 9.548 |  Val. PPL: 14010.868
+	Fold: 05
+	Train Loss: 9.548 | Train PPL: 14019.134
+		Val. Loss: 9.546 |  Val. PPL: 13992.120
+End of Epoch: 01 | Time: 1m 33s
+ Start of Epoch: 02
+	Fold: 01
+	Train Loss: 9.548 | Train PPL: 14014.229
+		Val. Loss: 9.546 |  Val. PPL: 13983.562
+	Fold: 02
+	Train Loss: 9.548 | Train PPL: 14016.284
+		Val. Loss: 9.546 |  Val. PPL: 13994.689
+	Fold: 03
+	Train Loss: 9.547 | Train PPL: 14007.460
+		Val. Loss: 9.546 |  Val. PPL: 13992.071
+	Fold: 04
+	Train Loss: 9.547 | Train PPL: 14005.077
+		Val. Loss: 9.548 |  Val. PPL: 14010.455
+	Fold: 05
+	Train Loss: 9.548 | Train PPL: 14019.277
+		Val. Loss: 9.546 |  Val. PPL: 13993.439
+End of Epoch: 02 | Time: 1m 37s
+ Start of Epoch: 03
+	Fold: 01
+	Train Loss: 9.548 | Train PPL: 14014.113
+		Val. Loss: 9.546 |  Val. PPL: 13983.437
+	Fold: 02
+	Train Loss: 9.548 | Train PPL: 14016.257
+		Val. Loss: 9.547 |  Val. PPL: 13995.650
+	Fold: 03
+	Train Loss: 9.547 | Train PPL: 14007.399
+		Val. Loss: 9.546 |  Val. PPL: 13992.572
+	Fold: 04
+	Train Loss: 9.547 | Train PPL: 14005.220
+		Val. Loss: 9.548 |  Val. PPL: 14010.114
+	Fold: 05
+	Train Loss: 9.548 | Train PPL: 14019.489
+		Val. Loss: 9.546 |  Val. PPL: 13994.171
+End of Epoch: 03 | Time: 1m 35s
+ Start of Epoch: 04
+	Fold: 01
+	Train Loss: 9.548 | Train PPL: 14013.880
+		Val. Loss: 9.546 |  Val. PPL: 13983.810
+	Fold: 02
+	Train Loss: 9.548 | Train PPL: 14016.270
+		Val. Loss: 9.547 |  Val. PPL: 13996.855
+	Fold: 03
+	Train Loss: 9.547 | Train PPL: 14007.332
+		Val. Loss: 9.546 |  Val. PPL: 13993.400
+	Fold: 04
+	Train Loss: 9.547 | Train PPL: 14005.305
+		Val. Loss: 9.548 |  Val. PPL: 14009.873
+	Fold: 05
+	Train Loss: 9.548 | Train PPL: 14019.676
+		Val. Loss: 9.546 |  Val. PPL: 13994.594
+End of Epoch: 04 | Time: 1m 38s
+ Start of Epoch: 05
+	Fold: 01
+	Train Loss: 9.548 | Train PPL: 14013.721
+		Val. Loss: 9.546 |  Val. PPL: 13984.291
+	Fold: 02
+	Train Loss: 9.548 | Train PPL: 14016.268
+		Val. Loss: 9.547 |  Val. PPL: 13998.176
+	Fold: 03
+	Train Loss: 9.547 | Train PPL: 14007.302
+		Val. Loss: 9.546 |  Val. PPL: 13994.399
+	Fold: 04
+	Train Loss: 9.547 | Train PPL: 14005.312
+		Val. Loss: 9.547 |  Val. PPL: 14009.616
+	Fold: 05
+	Train Loss: 9.548 | Train PPL: 14019.823
+		Val. Loss: 9.546 |  Val. PPL: 13994.852
+End of Epoch: 05 | Time: 1m 37s
+ Start of Epoch: 06
+	Fold: 01
+	Train Loss: 9.548 | Train PPL: 14013.633
+		Val. Loss: 9.546 |  Val. PPL: 13984.715
+	Fold: 02
+	Train Loss: 9.548 | Train PPL: 14016.266
+		Val. Loss: 9.547 |  Val. PPL: 13999.529
+	Fold: 03
+	Train Loss: 9.547 | Train PPL: 14007.297
+		Val. Loss: 9.546 |  Val. PPL: 13995.190
+	Fold: 04
+	Train Loss: 9.547 | Train PPL: 14005.265
+		Val. Loss: 9.547 |  Val. PPL: 14009.253
+	Fold: 05
+	Train Loss: 9.548 | Train PPL: 14019.926
+		Val. Loss: 9.546 |  Val. PPL: 13995.035
+End of Epoch: 06 | Time: 1m 37s
+ Start of Epoch: 07
+	Fold: 01
+	Train Loss: 9.548 | Train PPL: 14013.589
+		Val. Loss: 9.546 |  Val. PPL: 13984.881
+	Fold: 02
+	Train Loss: 9.548 | Train PPL: 14016.272
+		Val. Loss: 9.547 |  Val. PPL: 14000.797
+	Fold: 03
+	Train Loss: 9.547 | Train PPL: 14007.308
+		Val. Loss: 9.547 |  Val. PPL: 13995.647
+	Fold: 04
+	Train Loss: 9.547 | Train PPL: 14005.153
+		Val. Loss: 9.547 |  Val. PPL: 14008.716
+	Fold: 05
+	Train Loss: 9.548 | Train PPL: 14019.999
+		Val. Loss: 9.546 |  Val. PPL: 13995.169
+End of Epoch: 07 | Time: 1m 36s
+ Start of Epoch: 08
+	Fold: 01
+	Train Loss: 9.548 | Train PPL: 14013.588
+		Val. Loss: 9.546 |  Val. PPL: 13984.894
+	Fold: 02
+	Train Loss: 9.548 | Train PPL: 14016.303
+		Val. Loss: 9.547 |  Val. PPL: 14001.898
+	Fold: 03
+	Train Loss: 9.547 | Train PPL: 14007.302
+		Val. Loss: 9.547 |  Val. PPL: 13995.797
+	Fold: 04
+	Train Loss: 9.547 | Train PPL: 14005.026
+		Val. Loss: 9.547 |  Val. PPL: 14008.171
+	Fold: 05
+	Train Loss: 9.548 | Train PPL: 14020.079
+		Val. Loss: 9.546 |  Val. PPL: 13995.387
+End of Epoch: 08 | Time: 1m 37s
+ Start of Epoch: 09
+	Fold: 01
+	Train Loss: 9.548 | Train PPL: 14013.590
+		Val. Loss: 9.546 |  Val. PPL: 13984.788
+	Fold: 02
+	Train Loss: 9.548 | Train PPL: 14016.343
+		Val. Loss: 9.547 |  Val. PPL: 14002.890
+	Fold: 03
+	Train Loss: 9.547 | Train PPL: 14007.287
+		Val. Loss: 9.547 |  Val. PPL: 13995.700
+	Fold: 04
+	Train Loss: 9.547 | Train PPL: 14004.883
+		Val. Loss: 9.547 |  Val. PPL: 14007.709
+	Fold: 05
+	Train Loss: 9.548 | Train PPL: 14020.163
+		Val. Loss: 9.547 |  Val. PPL: 13995.652
+End of Epoch: 09 | Time: 1m 36s
+ Start of Epoch: 10
+	Fold: 01
+	Train Loss: 9.548 | Train PPL: 14013.601
+		Val. Loss: 9.546 |  Val. PPL: 13984.634
+	Fold: 02
+	Train Loss: 9.548 | Train PPL: 14016.394
+		Val. Loss: 9.547 |  Val. PPL: 14003.622
+	Fold: 03
+	Train Loss: 9.547 | Train PPL: 14007.253
+		Val. Loss: 9.546 |  Val. PPL: 13995.523
+	Fold: 04
+	Train Loss: 9.547 | Train PPL: 14004.746
+		Val. Loss: 9.547 |  Val. PPL: 14007.333
+	Fold: 05
+	Train Loss: 9.548 | Train PPL: 14020.252
+		Val. Loss: 9.547 |  Val. PPL: 13995.915
+End of Epoch: 10 | Time: 1m 37s
+ Start of Epoch: 11
+	Fold: 01
+	Train Loss: 9.548 | Train PPL: 14013.607
+		Val. Loss: 9.546 |  Val. PPL: 13984.416
+	Fold: 02
+	Train Loss: 9.548 | Train PPL: 14016.460
+		Val. Loss: 9.547 |  Val. PPL: 14004.260
+	Fold: 03
+	Train Loss: 9.547 | Train PPL: 14007.204
+		Val. Loss: 9.546 |  Val. PPL: 13995.259
+	Fold: 04
+	Train Loss: 9.547 | Train PPL: 14004.631
+		Val. Loss: 9.547 |  Val. PPL: 14007.095
+	Fold: 05
+	Train Loss: 9.548 | Train PPL: 14020.343
+		Val. Loss: 9.547 |  Val. PPL: 13996.116
+End of Epoch: 11 | Time: 1m 37s
+ Start of Epoch: 12
+	Fold: 01
+	Train Loss: 9.548 | Train PPL: 14013.606
+		Val. Loss: 9.546 |  Val. PPL: 13984.198
+	Fold: 02
+	Train Loss: 9.548 | Train PPL: 14016.529
+		Val. Loss: 9.547 |  Val. PPL: 14004.642
+	Fold: 03
+	Train Loss: 9.547 | Train PPL: 14007.157
+		Val. Loss: 9.546 |  Val. PPL: 13995.025
+	Fold: 04
+	Train Loss: 9.547 | Train PPL: 14004.541
+		Val. Loss: 9.547 |  Val. PPL: 14007.009
+	Fold: 05
+	Train Loss: 9.548 | Train PPL: 14020.417
+		Val. Loss: 9.547 |  Val. PPL: 13996.339

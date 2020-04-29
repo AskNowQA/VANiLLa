@@ -1,0 +1,55 @@
+==> Loading Dataset
+==> Preprocessing Data
+==> Creating Training Set, Validation Set and Test Set
+==> Building Vocabulary using Fasttext
+==> Building Encoder
+==> Building Decoder
+==> Building Seq2Seq Model
+The model has 53496086 trainable parameters
+==> Start Training...
+Epoch: 01 | Time: 0m 7s
+        Train Loss: 4.225 | Train PPL:  68.360
+         Val. Loss: 4.169 |  Val. PPL:  64.655
+Epoch: 02 | Time: 0m 6s
+        Train Loss: 3.642 | Train PPL:  38.149
+         Val. Loss: 5.406 |  Val. PPL: 222.814
+Epoch: 03 | Time: 0m 8s
+        Train Loss: 5.381 | Train PPL: 217.133
+         Val. Loss: 3.902 |  Val. PPL:  49.491
+Epoch: 04 | Time: 0m 7s
+        Train Loss: 3.737 | Train PPL:  41.979
+         Val. Loss: 3.989 |  Val. PPL:  54.019
+Epoch: 05 | Time: 0m 8s
+        Train Loss: 3.396 | Train PPL:  29.843
+         Val. Loss: 4.045 |  Val. PPL:  57.118
+Epoch: 06 | Time: 0m 8s
+        Train Loss: 3.113 | Train PPL:  22.498
+         Val. Loss: 3.809 |  Val. PPL:  45.085
+Epoch: 07 | Time: 0m 8s
+        Train Loss: 3.233 | Train PPL:  25.361
+         Val. Loss: 4.237 |  Val. PPL:  69.222
+Epoch: 08 | Time: 0m 7s
+        Train Loss: 3.085 | Train PPL:  21.874
+         Val. Loss: 4.278 |  Val. PPL:  72.061
+Epoch: 09 | Time: 0m 7s
+        Train Loss: 2.845 | Train PPL:  17.204
+         Val. Loss: 4.267 |  Val. PPL:  71.290
+Epoch: 10 | Time: 0m 8s
+        Train Loss: 3.129 | Train PPL:  22.843
+         Val. Loss: 4.634 |  Val. PPL: 102.887
+| Test Loss: 3.891 | Test PPL:  48.945 |
+['female', 'sex', 'sex', 'male', 'to', 'male', '.', '.']
+['rashid', 'fagimovich', 'kalimullin', 'is', 'a', 'male', '.']
+['female', 'sex', 'is', 'is', '.', 'male', '.', '.']
+['lebaudy', 'frères', 'is', 'male']
+['female', 'sex', 'sex', 'is', 'to', 'male', '.', '.']
+['david', 'is', 'a', 'male', '.']
+['female', 'sex', 'sex', 'is', 'to', 'male', '.', '.']
+['male', 'sex', 'does', 'juri', 'alexandrowitsch', 'falik', 'possess']
+['female', 'sex', 'sex', 'is', 'to', 'male', '.', '.']
+['female', 'sex', 'does', 'karin', 'j', 'blake', 'more', 'have']
+['carlos', 'sex', 'sex', 'is', 'to', 'male', '.', '.']
+['luis', 'quijanes', 'sex', 'is', 'male']
+['female', 'sex', 'is', 'is', '.', 'male', '.', '.']
+['sterjo', 'is', 'a', 'male', '.']
+BLEU score = 17.60

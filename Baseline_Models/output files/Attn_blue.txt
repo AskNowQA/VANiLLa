@@ -1,0 +1,55 @@
+==> Loading Dataset
+==> Preprocessing Data
+==> Creating Training Set, Validation Set and Test Set
+==> Building Vocabulary using Fasttext
+==> Building Encoder
+==> Building Decoder
+==> Building Seq2Seq Model
+The model has 6732578 trainable parameters
+==> Start Training...
+Epoch: 01 | Time: 0m 2s
+        Train Loss: 4.235 | Train PPL:  69.043
+         Val. Loss: 4.163 |  Val. PPL:  64.249
+Epoch: 02 | Time: 0m 1s
+        Train Loss: 3.879 | Train PPL:  48.358
+         Val. Loss: 4.007 |  Val. PPL:  54.980
+Epoch: 03 | Time: 0m 1s
+        Train Loss: 3.515 | Train PPL:  33.609
+         Val. Loss: 3.656 |  Val. PPL:  38.693
+Epoch: 04 | Time: 0m 1s
+        Train Loss: 3.324 | Train PPL:  27.779
+         Val. Loss: 3.615 |  Val. PPL:  37.142
+Epoch: 05 | Time: 0m 2s
+        Train Loss: 3.189 | Train PPL:  24.266
+         Val. Loss: 3.817 |  Val. PPL:  45.470
+Epoch: 06 | Time: 0m 1s
+        Train Loss: 3.088 | Train PPL:  21.926
+         Val. Loss: 3.633 |  Val. PPL:  37.816
+Epoch: 07 | Time: 0m 2s
+        Train Loss: 3.088 | Train PPL:  21.923
+         Val. Loss: 3.916 |  Val. PPL:  50.184
+Epoch: 08 | Time: 0m 1s
+        Train Loss: 2.971 | Train PPL:  19.519
+         Val. Loss: 3.882 |  Val. PPL:  48.542
+Epoch: 09 | Time: 0m 2s
+        Train Loss: 2.881 | Train PPL:  17.834
+         Val. Loss: 4.118 |  Val. PPL:  61.418
+Epoch: 10 | Time: 0m 1s
+        Train Loss: 2.830 | Train PPL:  16.944
+         Val. Loss: 4.272 |  Val. PPL:  71.664
+| Test Loss: 3.749 | Test PPL:  42.465 |
+['is', 'male', '.']
+['rashid', 'fagimovich', 'kalimullin', 'is', 'a', 'male', '.']
+['is', 'male', '.']
+['lebaudy', 'frères', 'is', 'male']
+['is', 'male', '.']
+['david', 'is', 'a', 'male', '.']
+['is', 'male', '.']
+['male', 'sex', 'does', 'juri', 'alexandrowitsch', 'falik', 'possess']
+['is', 'male', '.']
+['female', 'sex', 'does', 'karin', 'j', 'blake', 'more', 'have']
+['is', 'male', '.']
+['luis', 'quijanes', 'sex', 'is', 'male']
+['is', 'male', '.']
+['sterjo', 'is', 'a', 'male', '.']
+BLEU score = 18.83
