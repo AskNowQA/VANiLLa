@@ -57,7 +57,7 @@ for i in tab1['question_id']:
      #   print(old_size)
     #print(final_tab.shape)
 final_tab = final_tab.dropna(how = 'any')    
-#final_tab = final_tab.drop_duplicates(keep='first')
+final_tab = final_tab.drop_duplicates(keep='first')
 print(final_tab.shape)
 final_tab.to_csv('Final_Dataset_labels.csv', index=False)
 print("Yes")

@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import pandas as pd
 
-datasetfile = open('Final_Dataset_labels.csv','r')
+datasetfile = open('../../data/Postprocessing/Final_Dataset_labels.csv','r')
 tab = pd.read_csv(datasetfile)
 
 #tab = final_tab['question_relation']
