@@ -84,25 +84,24 @@ distribution = pd.read_csv("relation_distribution.csv",sep='|')
 distribution = distribution.iloc[50:100]
 
 for item in distribution['rel']:
-        tab_questions = new_tab[new_tab.question_relation == item]
-	tab_questions = tab_questions.reset_index()
-	selected_question = tab_questions.head(1)
-	for index,q in enumerate(tab_questions['question']):
-		checker = False
-		ans = tab_questions['question_entity_label'].iloc[index]
-        	for i,q_selected in enumerate(selected_question['question']):
-			ans_selected = selected_question['question_entity_label'].iloc[i]
-			sim = similarity(q,q_selected,ans,ans_selected)
-			#print(sim)
-                	if sim :
-				checker = True
-				break
+    tab_questions = new_tab[new_tab.question_relation == item]
+    tab_questions = tab_questions.reset_index()
+    selected_question = tab_questions.head(1)
+    for index,q in enumerate(tab_questions['question']):
+        checker = False
+        ans = tab_questions['question_entity_label'].iloc[index]
+        for i,q_selected in enumerate(selected_question['question']):
+            ans_selected = selected_question['question_entity_label'].iloc[i]
+            sim = similarity(q,q_selected,ans,ans_selected)
+            #print(sim)
+            if sim :
+                checker = True
+                break
 				#print("a")
-		if not checker :
-			tab_new = tab_questions.iloc[index]
-			selected_question = selected_question.append(tab_new)
-		
-	final_tab = final_tab.append(selected_question)
+        if not checker :
+            tab_new = tab_questions.iloc[index]
+            selected_question = selected_question.append(tab_new)
+    final_tab = final_tab.append(selected_question)
 	#filename = 'question/Dataset_batch_' + item + '.json'
 final_tab.to_json(r'Batch/Dataset_batch_2_ent_4.json',orient='records')
 print("Yes")                                     
