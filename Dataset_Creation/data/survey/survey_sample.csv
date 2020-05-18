@@ -1,0 +1,501 @@
+index,answer,answer_sentence,question_entity_label,question_id,question_relation_label
+0,Vladimir Cosma,Vladimir Cosma composed Michel Strogoff.,Michel Strogoff,14382,composer
+1,National Zoological Park,The National Zoological Park was the institution that conserved the species named brown rat.,common rat,8460,species kept
+2,Korean War,Hubert Miller fought in the Korean War.,Hubert Miller,85975,conflict
+3,piano,Éric Teruel know to play  piano,Éric Teruel,4278,instrument
+4,National Zoological Park,National Zoological Park has taken care of the species named brown rat.,common rat,12019,species kept
+5,Binghamton,where was john mica born,John Mica,70088,place of birth
+6,Richard Caswell,Caswell County is named after Richard Caswell.,Caswell County,88325,named after
+7,Amazona,Amazona is the higher classification of amazona leucocephala.,Cuban Amazon,88944,parent taxon
+8,RNA polymerase sigma-54 factor SRU_1147,RNA polymerase sigma-54 factor SRU_1147 encodes RNA polymerase sigma-54 factor SRU_1147.,RNA polymerase sigma-54 factor SRU_1147,37690,encoded by
+9,Eugene Merle Shoemaker,Eugene Merle Shoemaker discovered 118p/shoemaker-levy.,118P/Shoemaker–Levy,89072,discoverer or inventor
+10,United Kingdom,The film treasure seekers is from the United Kingdom,The Treasure Seekers,78364,country of origin
+11,French,French language is spoken in the white city,In the White City,81063,original language of film or TV show
+12,Juan Martín Moreira Viteri,Juan Martín Moreira Viteri the academic major of epidemiologist.,epidemiologist,48484,academic major
+13,association football match,Component of association football match,football,13171,part of
+14,Odakyū Odawara Line,Odakyū Odawara Line thoroughfare has Shinjuku Station as the terminus,Shinjuku Station,13285,terminus
+15,United Kingdom,Sex clinic was filmed in United Kingdom,Clinic Exclusive,78598,country of origin
+16,Steve Niles,Steve Niles wrote 30 days of night: immortal remains,30 Days of Night: Immortal Remains,85136,author
+17,Baltimore,francis warrington gillet died in Baltimore,Francis W. Gillet,76415,place of death
+18,Milan Metro Line 5,it is connected to Milan Metro Line 5.,Tre Torri,59904,connecting line
+19,male,Jack Doyle is a male.,Jack Doyle,74997,sex or gender
+20,ragtime,the genre of Julia Lee Niebergall ragtime,Julia Lee Niebergall,3955,genre
+21,Warsaw,Krzysxtof Aleksander Janczak was born in Warsaw.,Krzysztof Aleksander Janczak,70273,place of birth
+22,anthranilate phosphoribosyltransferase Rru_A1896,Anthranilate phosphoribosyltransferase Rru_A1896 is encodes anthranilate phosphoribosyltransferase Rru_A1896.,Anthranilate phosphoribosyltransferase Rru_A1896,2022,encoded by
+23,Badr,The Battle of Badr was located in Badr.,Battle of Badr,87829,location
+24,aircraft,The aircraft is managed by United States Navy.,United States Navy,1147,item operated
+25,male,Albert Medina is a male.,Albert de Médina,75958,sex or gender
+26,hard rock,The artist thunder is associated with the genre of hard rock.,Thunder,71968,genre
+27,World War II,Robert Docking participated in World War 2,Robert Docking,85951,conflict
+28,Macedonian Orthodox Church – Ohrid Archbishopric,Macedonian Orthodox Church – Ohrid Archbishopric is known to have Old Church Slavonic as its official language .,Old Church Slavonic,7769,official language
+29,Gustav Mahler,Gustav Mahler composed Symphony No. 4.,Symphony No. 4,85342,composer
+30,Prime Minister of Japan,The Prime Minister of Japan is the occupation held by Japan,Japan,851,office held by head of government
+31,Giuseppe Riccardi,Giuseppe Riccardi has location of birth at Gorno.,Gorno,3568,place of birth
+32,Hermannskogel,The highest point in Vienna is Hermannskogel.,Vienna,624,highest point
+33,Shewanella oneidensis MR-1,The taxon of ABC-type molybdate uptake system permease component ModB SO_4447 is found on Shewanella oneidensis MR-1.,ABC-type molybdate uptake system permease component ModB SO_4447,25453,found in taxon
+34,Amsterdam,sander groen's took place in amsterdam,Sander Groen,70211,place of birth
+35,KTN1,The KTN1 gene encodes Kinectin.,Kinectin 1,43870,encoded by
+36,Oliver Riedel,Oliver Riedel wrote the song seemann,Seemann,89099,lyrics by
+37,male,Arno Meijs is male.,Arno Meijs,75508,sex or gender
+38,San Luis Obispo County,Cayucos belong to San Luis Obispo County.,Cayucos,85528,located in the administrative territorial entity
+39,Homo sapiens,Homo sapiens is  Ras-related protein Rab-20,"RAB20, member RAS oncogene family",12017,found in taxon
+40,outfielder,Matt Angle is an outfielder.,Matt Angle,79521,position played on team / speciality
+41,Emanuel Czuber,Emanuel Czuber was Milutin's doctoral advisor.,Milutin Milanković,130,doctoral advisor
+42,Mount Desor,Mount Desor comes from Pierre Jean Édouard Desor.,Édouard Desor,48755,named after
+43,Mongolia,Mongolia is where Pagamsuren Atlantulga is from.,Pagamsuren Altantuga,70312,place of birth
+44,Chiyoda-ku,Chiyoda-ku is the HQ of Liberal Democratic Party.,Liberal Democratic Party,1558,headquarters location
+45,The Legend of the North Wind,The Legend of the North Wind has been dubbed by english,English,21450,voice actor
+46,Jean-Michel Verner,Jean-Michel Verner has a job as France.,France,4239,occupation
+47,male,harry spear is male,Harry Spear,76007,sex or gender
+48,Mortsel,Eric Walter Elst born at Mortsel place with town privileges,Eric Walter Elst,602,place of birth
+49,Tuomas Holopainen,Tuomas Holopainen composed sacrament os wirderness,Sacrament of Wilderness,89100,lyrics by
+50,single-player video game,the mode is single player video game,Still Life 2,84179,game mode
+51,Anna Thomas,The writer for Frida is Anna Thomas.,Frida,84292,screenwriter
+52,Konrad Wachsmann,Konrad Wachsmannis the architect of Einsteinhaus Caputh.,Einsteinhaus Caputh,15355,architect
+53,sedimentary rock,Sedimentary rock is used to make Aconcagua.,Aconcagua,1275,material used
+54,Germany,Bellaria - As Long As We Live takes place in Germany.,Bellaria: As Long as We Live!,79213,country of origin
+55,Kobe,Kobe is where Genki Dean died.,Genki Dean,70078,place of birth
+56,Michael Haneke,Michael Haneke directed Amour.,Amour,83245,director
+57,basketball,notre dame fighting irish men' plays basketball,Notre Dame Fighting Irish men's basketball,88778,sport
+58,Kate DiCamillo,Kate DiCamillo wrote the magicians elephant.,The Magician's Elephant,85110,author
+59,West Slavic languages,The classification scheme of West Slavic languages is adapted from Old Church Slavonic.,Old Church Slavonic,10063,based on
+60,Bay City,"Tyler Mcivey is from Bay City, Michigan.",Tyler McVey,71624,place of birth
+61,asteroid,(9412) 1995 gz8 is an asteroid.,(9412) 1995 GZ8,83790,instance of
+62,Louise Boyer,The name of Anne Jules de Noailles's mother is Louise Boyer.,Anne Jules de Noailles,1008,mother
+63,Gossolengo,Andrea Dallavalle is a resident of Gossolengo administrative territory.,Andrea Dallavalle,7056,residence
+64,Raf,Raf compsed Self Control.,Self Control,85329,composer
+65,Thermodesulfovibrio yellowstonii DSM 11347,Thermodesulfovibrio yellowstonii DSM 11347 excinuclease ABC subunit C THEYE_A1889 is found in.,Excinuclease ABC subunit C THEYE_A1889,52579,found in taxon
+66,Japan,"The ""Time Traveler"" was filmed in Japan.",Time Traveller: The Girl Who Leapt Through Time,78976,country of origin
+67,cross-country cycling,Kohei Yamamoto is a cross-country cyclist.,Kohei Yamamoto,12250,position played on team / speciality
+68,1991 Trans-Tasman Test series,1991 Trans-Tasman Test series tournament did Australia compete in,Australia,41076,participating team
+69,lung cancer,John J. Yeosock died of lung cancer.,John John Yeosock,84602,cause of death
+70,Mors Principium Est,Mors Principum Est recorded the unborn.,The Unborn,81668,performer
+71,Escherichia coli O83:H1 str. NRG 857C,DNA topoisomerase I NRG857_06535 is found in Escherichia coli O83:H1 str. NRG 857C.,DNA topoisomerase I NRG857_06535,9019,found in taxon
+72,film producer,Adrian Grenier is a film producer. He has also portrayed Vincent Chase,Adrian Grenier,82210,occupation
+73,Rio Grande Airport,"Rio Grande Airport is the aerodrome that serves Rio Grande, Rio Grande do Sul.",Rio Grande,16743,place served by transport hub
+74,Bangladesh,Chittagong is in Bangladesh.,Chittagong,84970,country
+75,Romulus,Romulus founded Rome.,Rome,13947,founded by
+76,asteroid belt,(9868) 1991 VP1 is apart of asteroid belt.,(9868) 1991 VP1,87061,minor planet group
+77,Susan Choi,Suson Choi wrote A Person of Interest.,A Person of Interest,85189,author
+78,The Outer Limits,The Outer Limits was published ny Xbox.,Xbox,2528,publisher
+79,Korn,Korn contributed to the Korn album,The Essential Korn,82048,performer
+80,semagacestat,Semagacestat is what Presenilin-1 communicates with.,Presenilin 1,20012,physically interacts with
+81,house mouse,Transformer-2 protein homolog beta is found in house mouse.,Transformer 2 beta,26699,found in taxon
+82,Game Grumps,Game Grumps is a notable work done by Egoraptor.,Arin Hanson,6167,notable work
+83,2-isopropylmalate synthase LA_2202,2-isopropylmalate synthase LA_2202 encodes 2-isopropylmalate synthase LA_2202,2-isopropylmalate synthase LA_2202,645,encoded by
+84,AEZ Zakakiou,AEZ Zakakiou  is the name of sports team which plays in 2016–17 Cypriot First Division.,2016–17 Cypriot First Division,44736,league
+85,San Diego Museum of Art,Raja Surendra Vikram Shah at the age of 15 with his prime minister safeguarded in the San Diego Museum of Art.,Raja Surendra Vikram Shah at the age of 15 with his prime minister,12263,collection
+86,Mycoplasma mycoides subsp. mycoides SC str. PG1,Riboflavin kinase/FAD synthetase MSC_0106 belong to the Mycoplasma mycoides subsp. mycoides SC str. PG1 taxon.,Riboflavin kinase/FAD synthetase MSC_0106,34890,found in taxon
+87,Paolo Biagetti,Paolo Biagetti created the production designs of Paprika.,Paprika,8882,production designer
+88,single-player video game,Single-player video game is a gameplay mode featured on Elite Beat Agents.,Elite Beat Agents,84088,game mode
+89,United Kingdom,Economist John Kay is from United Kingdom.,John Kay,73716,country of citizenship
+90,The Little Prince,The Little Prince was published in the United Kingdom.,United Kingdom,2424,place of publication
+91,master of the sugar works,Entrepreneur is a master of the sugar works.,entrepreneur,279,field of this occupation
+92,Toshio Iwai,Toshio Iwai is a designer for simtunes.,SimTunes,89429,designed by
+93,La Nación,La Nación newspaper employs Elizabeth Azcona Cranwell,Elizabeth Azcona Cranwell,54283,employer
+94,Twsg1,The gene Twsg1 encodes Twisted gastrulation protein homolog 1,Twisted gastrulation BMP signaling modulator 1,30072,encoded by
+95,Crimean War,Duncan Millar attended the Crimean War.,Duncan Millar,85961,conflict
+96,Sun,Sun  is the parent astronomical body of asteroid belt.,asteroid belt,25141,parent astronomical body
+97,Match Day II,Match day II application demonstrates  association football,football,19653,depicts
+98,Abidjan,Axel Cedric Konan was born in Abidjan.,Axel Cédric Konan,70545,place of birth
+99,Sony Music,nacaozumbi signed to sony music.,Nação Zumbi,83992,record label
+100,male,Gyula Szersén is a male.,Gyula Szersén,76251,sex or gender
+101,Deinococcus radiodurans R1,elongation factor of  G DR_0307 belongs to Deinococcus radiodurans R1.,elongation factor G DR_0307,3459,found in taxon
+102,La Silla Observatory,6666 fro was discovered in La Silla Observatory.,6666 Frö,87922,site of astronomical discovery
+103,TBS GB,The headquarter of TBS GB is located in Europe.,Europe,4591,headquarters location
+104,Cardiolipin synthase Cls LBA1236,The nutrient Cardiolipin synthase Cls LBA1236 is encoded by cardiolipin synthase Cls LBA1236.,cardiolipin synthase Cls LBA1236,10503,encodes
+105,heme exporter protein C EAE_01240,it is encoded by heme exporter protein C EAE_01240.,Heme exporter protein C EAE_01240,49557,encoded by
+106,Oberhausen,Oberhausen shares a border with Mülheim an der Ruhr.,Mülheim,41535,shares border with
+107,Lowell,"Lowell, Massachusetts is where Bette Davis is from.",Bette Davis,70026,place of birth
+108,Burkholderia pseudomallei K96243,Cytochrome P450 BPSS1654 belong to the Burkholderia pseudomallei K96243 taxon.,Cytochrome P450 BPSS1654,53637,found in taxon
+109,anonymous,The creator is anonymous.,Fractio Panis,16999,creator
+110,Italian alphabet,Italian alphabet is the name of the set.,Italian,8052,writing system
+111,Evelyn: The Cutest Evil Dead Girl,Brad Peyton a screenwriter of Evelyn: The Cutest Evil Dead Girl.,Brad Peyton,7419,screenwriter
+112,Eric Boe,Eric Boe was an astronaut who took part in the sts-126 space mission.,STS-126,89369,crew member
+113,Dominica national football team,Dominica national football team is playing for Dominican Republic.,Dominican Republic,2816,country for sport
+114,novel,The book home is a novel,Home,71747,genre
+115,Homo sapiens,Homo sapiens taxon is Muscarinic acetylcholine receptor M3 found in.,Cholinergic receptor muscarinic 3,44398,found in taxon
+116,Tbxa2r,tbxa2r encodes thromboxane a2 receptor.,Thromboxane A2 receptor,2770,encoded by
+117,point guard,saša vasiljević is a point guard.,Saša Vasiljević,79779,position played on team / speciality
+118,Shewanella oneidensis MR-1,We can found the transcriptional repressor of aromatic amino acid biosynthesis TrpR SO_3419 in Shewanella oneidensis MR-1,Transcriptional repressor of aromatic amino acid biosynthesis TrpR SO_3419,8261,found in taxon
+119,Il1f5,Il1f5 encodes Interleukin-36 receptor antagonist protein.,"Interleukin 1 family, member 5 (delta)",7073,encoded by
+120,alternative hip hop,Zachg creates alternative hip hop music.,Zachg,72081,genre
+121,Laetitia Casta,Laetitia Casta wrote the script for In Me.,In Me,1459,screenwriter
+122,Canadian Centre for Architecture,The Canadian Centre for Architecture employs Phyllis Lambert.,Phyllis Lambert,8407,employer
+123,primosome assembly protein PriA NGR_c31160,primosome assembly protein PriA NGR_c31160 is encodes primosome assembly protein PriA NGR_c31160,Primosome assembly protein PriA NGR_c31160,47051,encoded by
+124,jazz,Tet is a jazz album.,Masada: Tet,71754,genre
+125,Mississippi River,The Huey P. Long Bridge spans across the Mississippi River.,Huey P. Long Bridge (Baton Rouge),89356,crosses
+126,William Klein,William Klein directed Messiah.,Messiah,83178,director
+127,Sumi Yukawa,Sumi Yukawa is the spouse of Hideki Yukawa,Hideki Yukawa,2,spouse
+128,4-diphosphocytidyl-2C-methyl-D-erythritol kinase Cj1104,4-diphosphocytidyl-2C-methyl-D-erythritol kinase Cj1104 encodes 4-diphosphocytidyl-2C-methyl-D-erythritol kinase Cj1104,4-diphosphocytidyl-2C-methyl-D-erythritol kinase Cj1104,15540,encoded by
+129,DNA,DNA is a part of mitochondrion,mitochondrion,4773,part of
+130,1-deoxy-D-xylulose-5-phosphate synthase RSP_0254,1-deoxy-D-xylulose-5-phosphate synthase RSP_0254 was encoded by 1-deoxy-D-xylulose-5-phosphate synthase RSP_0254 gene.,1-deoxy-D-xylulose-5-phosphate synthase RSP_0254,37250,encoded by
+131,Microsoft,Microsoft produced Active Director.,Active Directory,22687,developer
+132,football,The team Preston North End F.C. plays football.,Preston North End F.C.,88781,sport
+133,Algiers,Roland romanelli is from Algiers.,Roland Romanelli,70301,place of birth
+134,John Cromwell,"John Cromwell is the director credited for ""Anna and the King of Siam"".",Anna and the King of Siam,83364,director
+135,midfielder,Serjik Teymourian played midfielder in soccer.,Serjik Teymourian,79386,position played on team / speciality
+136,Richard Maibaum,Richard Maibaum wrote license to kill.,Licence to Kill,84320,screenwriter
+137,National Pokédex,National Pokédex is the encyclopedia appears in Pokémon.,Pokémon,15119,present in work
+138,Tsui Hark,Tsui Hark wrote Seven Swords.,Seven Swords,84466,screenwriter
+139,Sakai,The location of birth for Musashi is Sakai.,Musashi,70498,place of birth
+140,Buenos Aires,Eduardo Rabossi's birthplace is Buenos Aires.,Eduardo Rabossi,70392,place of birth
+141,threonine dehydratase NGO0444,Threonine dehydratase NGO0444 encodes threonine dehydratase NGO0444.,Threonine dehydratase NGO0444,61883,encoded by
+142,wide receiver,Bob Chandler football position is wide receiver.,Bob Chandler,79367,position played on team / speciality
+143,NASDAQ,Oracle Hyperion traded at  NASDAQ,Oracle Hyperion,10300,stock exchange
+144,Graham Chapman,Graham Chapman wrote Monty Python and holy grail,Monty Python and the Holy Grail,84362,screenwriter
+145,Elmira,Wrestler Beth Phoenix was born in Elmira.,Beth Phoenix,71131,place of birth
+146,alternative rock,Sielun Veljet is Alternative Rock.,Sielun Veljet,72138,genre
+147,economist,leonid abalkin is an economist,Leonid Abalkin,82128,occupation
+148,Claes-Ingvar Lagerkvist,6945 Dahlgren was discovered by Claes-Ingvar Lagerkvist.,6945 Dahlgren,89066,discoverer or inventor
+149,Antwerp,Abraham Janssens was born in Antwerp.,Abraham Janssens I,70086,place of birth
+150,Society of Jesus,Society of Jesus is the religious affiliation.,Carlo Bovio,5352,religious order
+151,Stane Street,Stane Street terminates at London.,London,61114,terminus
+152,Princeton,William Schreyer died in Princeton.,William Schreyer,77145,place of death
+153,Oliver Stapleton,Oliver Stapleton was in charge of cinematography in kansas city,Kansas City,88037,director of photography
+154,Lesley Ann Warren,Lesley Ann Warren starred in Willing to Kill: The Texas Cheerleader Story.,Willing to Kill: The Texas Cheerleader Story,9926,cast member
+155,Paris,Antoine Sommaville worked at the location Paris.,Antoine Sommaville,495,work location
+156,Alexander von Fürstenberg,Alexander Von Furstenberg's mother is Diane Von Furstenberg.,Diane von Fürstenberg,86122,child
+157,North America,Los Angeles is located in North America.,Los Angeles,1399,continent
+158,Day of Love,Day of Love produced by actor,Actor,12902,developer
+159,Moby,Money composed hymn.,Hymn,85333,composer
+160,actor,Andrea Barber is an actor by profession.,Andrea Barber,82091,occupation
+161,India,Zin was filmed in India.,Zid,79266,country of origin
+162,"Long Pond, Foot of Red Hill","Long Pond, Foot of Red Hill expresses farmer",farmer,1915,depicts
+163,Austin,neal barrett died in austin,"Neal Barrett, Jr.",77198,place of death
+164,Battlefield 2142,Battlefield 2142 has its narrative set in Belarus,Belarus,2436,narrative location
+165,Jakarta,"Jefri al buchori died in Jakarta, Indonesia.",Jefri Al Buchori,76464,place of death
+166,Aicardi syndrome,Aicardi syndrome afflicts Homo sapiens.,Homo sapiens,313,afflicts
+167,horror film,Night owl is an horror film,Night Owl,71774,genre
+168,Estadio Azteca,Estadio Azteca is a notable work of Pedro Ramírez Vázquez.,Pedro Ramírez Vázquez,327,notable work
+169,"Bambi, A Life in the Woods","Bambi was adapted from Bambi, A Life in the Woods.",Bambi,89248,based on
+170,John D. Hancock,Prancer was directed by John D. Hancock.,Prancer,83384,director
+171,Bruce Springsteen,Bruce Springsteen composed Radio Nowhere.,Radio Nowhere,89101,lyrics by
+172,Pseudomonas syringae pv. tomato str. DC3000,Sigma-54 dependent transcriptional regulator PSPTO_5424 is found in the taxon Pseudomonas syringae pv. tomato str. DC3000.,Sigma-54 dependent transcriptional regulator PSPTO_5424,14820,found in taxon
+173,Brazil,Thiago Martins belongs to Brazil.,Thiago Martins,73561,country of citizenship
+174,Ribarroja Dam,the source of Ribarroja Dam is Ebro,Ebro,44804,inflows
+175,Stephen Cooper,Stephen Cooper is the CEO of Warner Music Group.,Warner Music Group,7594,chief executive officer
+176,Snowy Hydro,Snowy Hydro is the organization under possession of Australia,Australia,61,owned by
+177,Earth's surface,Antarctica a component of Earth's surface.,Antarctica,203,part of
+178,San Diego Museum of Art,San Diego Museum of Art has Raja Surendra Vikram Shah at the age of 15 with his prime minister in it.,Raja Surendra Vikram Shah at the age of 15 with his prime minister,55,collection
+179,Clostridium acetobutylicum ATCC 824,4-hydroxy-3-methylbut-2-enyl diphosphate reductase CA_C1847 belong to Clostridium acetobutylicum ATCC 824 taxon,4-hydroxy-3-methylbut-2-enyl diphosphate reductase CA_C1847,32252,found in taxon
+180,house mouse,Acid-sensing ion channel 3 is found in house mice.,Acid-sensing (proton-gated) ion channel 3,24135,found in taxon
+181,Larry Flynt,This Aint Avater XXX was produced by Larry Flynt.,This Ain't Avatar XXX,85443,producer
+182,Flavobacterium psychrophilum JIP02/86,"Cytochrome c oxidase, subunit I FP0379 is found in Flavobacterium psychrophilum JIP02/86.","Cytochrome c oxidase, subunit I FP0379",9498,found in taxon
+183,Thermus thermophilus HB8,NADH-quinone oxidoreductase subunit 11 TTHA0094 is found in the Thermus thermophilus HB8,NADH-quinone oxidoreductase subunit 11 TTHA0094,53023,found in taxon
+184,Alliance Française in Poland,alliance francaise is a social group in poland.,Poland,14464,headquarters location
+185,Los Angeles,phyllis avery passed away in Los Angeles,Phyllis Avery,76523,place of death
+186,Coele-Syria,Coele-Syria is located n the Seleucid Empire.,Seleucid Empire,9739,country
+187,Sant'Anna di Stazzema massacre,Sant'Anna di Stazzema massacre happened in the historical era of World War II,World War II,42652,time period
+188,discus throw,Georg Tischler participate in discus throw.,Georg Tischler,734,sports discipline competed in
+189,James LaBrie,Enemy Inside was written by James LaBrie.,The Enemy Inside,85209,composer
+190,rail transport,rail transport system operates railroad,railway,37339,item operated
+191,Mike Patton,Mike Patton founded ipecac recordings.,Ipecac Recordings,88228,founded by
+192,piano,Павел Гинтов played piano.,Pavel Gintov,86383,instrument
+193,female,JULIE POSSESS FEMALE SEX.,Julie Leclerc,48570,sex or gender
+194,funk,The Reddings are funk.,The Reddings,72035,genre
+195,playwright,Feroz Abbas Khan's was a playwright.,Feroz Abbas Khan,82120,occupation
+196,chest pain,chest pain is a symptom of myocardial infarction,myocardial infarction,39030,symptoms
+197,Republican Party,Dean Clukey affiliated with Republican Party,Dean Clukey,32,member of political party
+198,aspartyl/glutamyl-tRNA amidotransferase subunit B SSA_0571,The encoding gene is aspartyl/glutamyl-tRNA amidotransferase subunit B SSA_0571.,Aspartyl/glutamyl-tRNA amidotransferase subunit B SSA_0571,55873,encoded by
+199,historian,Theodore White's profession is historian.,Theodore H. White,82174,occupation
+200,Portugal,Misericordia is part of Portugal.,Misericórdia (Lisbon),84889,country
+201,Swedes,Carl Bildt belongs to the Swedes ethnic group.,Carl Bildt,87219,ethnic group
+202,Western European Time,Marrakech is in the Western European Time zone.,Marrakesh,88668,located in time zone
+203,Battle of Kiev (1941),At kyiv the battle of Kiev is located.,Kiev,9120,location
+204,John Broughton,John Broughton discovered 20468 petercook,20468 Petercook,89080,discoverer or inventor
+205,role-playing video game,Ultima IV: Quest of the Avatar is a role-playing video game.,Ultima IV: Quest of the Avatar,72074,genre
+206,Qantas,Qantas is located at Melbourne Airport.,Melbourne Airport,57372,airline hub
+207,Philadelphia,Paul Philippe died in Philadelphia,Paul Philippe Cret,76566,place of death
+208,Durham,It was made by the guy in was living in Durham.,Razor Shines,71218,place of birth
+209,United States of America,Geneva Lake is located in the United States of America.,Geneva Lake,84853,country
+210,United States of America,United States of America created the film 25th hour.,25th Hour,78400,country of origin
+211,asteroid,(8264) 1986 qa3 is an asteroid.,(8264) 1986 QA3,83868,instance of
+212,Norma Shearer,Norma Shearer had Irving Thalberg as their girlfriend.,Irving Thalberg,9555,unmarried partner
+213,Black Uhuru,Black Uhuru recorded Red.,Red,82059,performer
+214,Sacramento,"Harry Bright died in Sacramento, California.",Harry Bright,77291,place of death
+215,portrait,The category is portrait.,Raja Surendra Vikram Shah at the age of 15 with his prime minister,292,genre
+216,Taito Corporation,Taito Corporation published darius.,Darius,86583,publisher
+217,forward,Yuri Yeliseyev is a foward position on the team.,Yuri Yeliseyev,79389,position played on team / speciality
+218,United States of America,George Weidler's nationality is United States of America.,George William Weidler,73922,country of citizenship
+219,Stargate Infinity,Stargate Infinity is a television program that builds up Stargate.,Stargate,6243,takes place in fictional universe
+220,Debbie Wasserman Schultz,Debbie Wasserman Schultz chair of Democratic Party,Democratic Party,9974,chairperson
+221,university teacher,Hans Hebra is a university teacher.,Hans Hebra,7860,occupation
+222,Italy,The province of como is in italy.,Province of Como,84851,country
+223,K. Balachander,K. Balachander directed again,Aaina,83118,director
+224,indie rock,The Whip is indie rock.,The Whip,72133,genre
+225,house mouse,V-set domain containing T-cell activation inhibitor 1 found is house mouse.,V-set domain containing T cell activation inhibitor 1,58914,found in taxon
+226,United Kingdom,Urban ghost story is from the United Kingdom.,Urban Ghost Story,78521,country of origin
+227,Frank Borzage,Frank Borzage directed The Vanishing Virginian.,The Vanishing Virginian,83229,director
+228,Marc Blank,Marc Blank designed Enchanter.,Enchanter,89425,designed by
+229,London,Jean Innes was born in London,Jean Saunders,70065,place of birth
+230,Italy,The film Bitter Rice was set in Italy.,Bitter Rice,78358,country of origin
+231,Paris,"William L. Dayton died in Paris, France.",William L. Dayton,77294,place of death
+232,male,Sergey Sivokho is male,Serhiy Syvokho,21712,sex or gender
+233,Atlanta,Barbara Cook's place of birth is Atlanta.,Barbara Cook,70003,place of birth
+234,August Hug,August Hug expired at Fischingen.,Fischingen,7583,place of death
+235,Anna Bolena,Anna Bolena is the name of the genre.,Henry VIII of England,39310,characters
+236,Amsterdam,Amsterdam is where Co Bouwens died.,Co Bouwens,428,place of death
+237,1986 FIFA World Cup,recurring event did Kim Yong-se take part in 1986 FIFA World Cup.,Kim Yong-se,1305,participant of
+238,Bimal Roy,"Bimal Roy directed ""Sujata"".",Sujata,83285,director
+239,Palomar Observatory,9142 rhesus was discovered in the Palomar Observatory.,9142 Rhesus,87969,site of astronomical discovery
+240,Ubisoft,Ubisoft made brothers in arms: double time.,Brothers in Arms: Double Time,86650,publisher
+241,Fzd4,a encodes frizzled-4 fzd4,Frizzled class receptor 4,36693,encoded by
+242,Royal Society for the Prevention of Cruelty to Animals,The nonprofit organization is Elizabeth II a chairperson of Royal Society for the Prevention of Cruelty to Animals.,Elizabeth II,9359,chairperson
+243,metabolism,Sphingomyelin phosphodiesterase involved in the process of Metabolism.,Sphingomyelin phosphodiesterase 1,8913,biological process
+244,female,Coluccio Salutati's nationality is female,Sydney Fairbrother,75099,sex or gender
+245,RCA Records,The Archies were under the RCA Records label.,The Archies,83912,record label
+246,Amelia County,William wyatt bibb is from Amelia County,William Wyatt Bibb,71288,place of birth
+247,Ludwig van Beethoven,Ludwig van Beethoven suffered from the disease of lead poisoning.,lead poisoning,33256,medical condition
+248,Elaine Paige,Elaine Paige Live was recorded be Elaine Paige.,Elaine Paige Live,81784,performer
+249,Actor,Claudia Abate is an actor.,Claudia Abate Ortiz,82188,occupation
+250,Heinrich Brunn,Heinrich Brunn was a notable student of Adolf Furtwängler.,Adolf Furtwängler,2447,student
+251,B3GNT6,"B3GNT6 gene encodes Acetylgalactosaminyl-O-glycosyl-glycoprotein beta-1,3-N-acetylglucosaminyltransferase.","UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 6",11369,encoded by
+252,PAK1,PAK1 gene encodes Serine/threonine-protein kinase,P21 (RAC1) activated kinase 1,1162,encoded by
+253,Who Was Who in Egyptology (3rd Edition),Who Was Who in Egyptology (3rd Edition) is the name of the collectable.,United Kingdom,15310,published in
+254,Loglan,Loglan builds on English.,English,3776,based on
+255,horror film,Suicide Club is a horror film on Netflix.,Suicide Club,71806,genre
+256,myocardial infarction,A myocardial infarction caused Tom Sestak's death.,Tom Sestak,84505,cause of death
+257,English,English was the recorded language for the film last run,The Last Run,81323,original language of film or TV show
+258,Clostridium acetobutylicum ATCC 824,The 30S ribosomal protein S11 CA_C3106 belongs to Clostridium acetobutylicum ATCC 824.,30S ribosomal protein S11 CA_C3106,31031,found in taxon
+259,Crématorium-columbarium du Père-Lachaise,Crematorium-columbarium du Pere-Lachaise  building is located on Pere Lachaise Cemetery.,Père Lachaise Cemetery,26167,located on street
+260,Amazon,a produced Diner Dash: Flo on the Go Amazon,Diner Dash: Flo on the Go,36140,developer
+261,Rhodo,Rhodo was born at Asia.,Asia,4310,place of birth
+262,James DeMonaco,James DeMonaco directed Staten Island,Staten Island,83159,director
+263,Howard Shore,Howard Shore wrote in naked Lunch.,Naked Lunch,85215,composer
+264,Homo sapiens,RSL24D1 was founded from Homo Sapiens.,RSL24D1,55368,found in taxon
+265,Giogiò Franchini,Giogio Franchini edited the Consequences of Love,The Consequences of Love,847,film editor
+266,general officer,General officer is the title conferred upon Francisco Franco Salgado-Araujo.,Francisco Franco Salgado-Araujo,1355,military rank
+267,Gothic Revival architecture,The Rochdale Town Hall is of the Gothic Revival architecture style.,Rochdale Town Hall,88710,architectural style
+268,Germany,Germany is the nationality of Miland Petrozza.,Mille Petrozza,73712,country of citizenship
+269,"The Park, Chennai","The Park, Chennai dwelling was Los Angeles the designer.",Los Angeles,8664,architect
+270,Roshanara Begum,Roshanara Begum is arjumand banu's child,Mumtaz Mahal,86097,child
+271,chronic lymphocytic leukemia,chronic lymphocytic leukemia is genetically connected with BCL2.,BCL2,6219,genetic association
+272,United States of America,Gone But Not Forgotten belongs to United States of America.,"Gone, But Not Forgotten",78466,country of origin
+273,Der Emes,The Central Committee of the Communist Party of the Soviet Union produced Der Emes.,Central Committee of the Communist Party of the Soviet Union,21864,publisher
+274,cell nucleus,The cell nucleus is the cell component of DEP domain-containing protein 1A.,DEP domain containing 1a,1448,cell component
+275,Pokémon,Pokemon features Pikachu.,Pikachu,10849,present in work
+276,Sammy,the firstname of Sammy McCrory is Sammy,Sammy McCrory,946,given name
+277,Church of God,jon testers religion's is Church of God,Jon Tester,85840,religion
+278,Nick Hornby,Nick Hornby wrote Housekeeping vs the dirt.,Housekeeping vs. The Dirt,85037,author
+279,Hollywood Pictures,the film v.i. warshawski is associated with Hollywood Productions,V.I. Warshawski,87315,production company
+280,Mount Royal Cemetery,David Thompson (explorer) is buried in Mount Royal Cemetery.,David Thompson,88124,place of burial
+281,United Kingdom,The greatest wish in the film is United Kingdom,The Greatest Wish in the World,78606,country of origin
+282,Neisseria meningitidis MC58,FtsH NMB0798 belongs to Neisseria meningitidis MC58.,Cell division protein FtsH NMB0798,39854,found in taxon
+283,linebacker,Keith Mccants plays linebacker position on the field.,Keith McCants,79696,position played on team / speciality
+284,New York City,George Bridgman died in New York City.,George Brant Bridgman,76766,place of death
+285,female,Joanna Szczepkowska's gender is female.,Joanna Szczepkowska,75540,sex or gender
+286,Napoleonic Wars,Colquhoun Grant took part in the Napoleonic Wars.,Colquhoun Grant,2372,conflict
+287,Hank Williams Jr.,"Hank williams, jr.s greatest hits - volume 2 belongs to Hank Williams Jr.",Greatest Hits Volume 2,81922,performer
+288,Providence,Brian burke was born in Providence.,Brian Burke,70933,place of birth
+289,Grade II listed building,"The building 4, Northcroft Lane has a Grade II listed building heritage status.",Childs Almshouses,21607,heritage designation
+290,indie rock,The Autumn Owls creats music in the Indie Rock genre.,Autumn owls,72352,genre
+291,Harry Keramidas,Harry Keramidas edited Chances Are (film).,Chances Are,88928,film editor
+292,Le crocodile du Botswanga,Le crocodile du Botswanga is Fabrice Éboué a director.,Fabrice Éboué,1884,director
+293,Tapan Sinha,Tapan Sinha wrote the screenplay for Hatey Bazarey.,Hatey Bazarey,3397,screenwriter
+294,Hal Roach,Hal Roach produced One Billion B.C.,One Million B.C.,85430,producer
+295,Paris,Edme Mentelle's death occurred in Paris.,Edme Mentelle,76668,place of death
+296,Silent House,Silent House is the name of the artwork.,Eric Sheffer Stevens,3321,cast member
+297,Musée d'Orsay,Quai de Passy was preserved in Musée d'Orsay,From Quai de Passy,16950,collection
+298,Order of Friendship of Peoples,Kyiv was awarded with  Order of Friendship of Peoples.,Kiev,15882,award received
+299,Homo sapiens,F-box/LRR-repeat protein 14 is in Homo sapiens,F-box and leucine rich repeat protein 14,311,found in taxon
+300,Sun Records,Sun Records signed Jerry Lee Lewis.,Jerry Lee Lewis,84028,record label
+301,Black and White,Black and White film genre has William Beaudine as screenwriter.,William Beaudine,34631,screenwriter
+302,Soviet Union,Nikolay shirshov is from Soviet Union,Nikolay Shirshov,74010,country of citizenship
+303,Lüshunkou District,Battle of port arthur happened in Lüshunkou District.,Battle of Port Arthur,87816,location
+304,New Jersey,New Jersey is where the american acros Paul America was born.,Paul America,70071,place of birth
+305,Roger McNamee,Roger McNamee founded elevation partners.,Elevation Partners,88237,founded by
+306,Michelin,Michelin organization gives Michelin star,Michelin star,18866,conferred by
+307,Hendrik van Gent,Hendrik van Gent discovered 4511 Rembrandt.,4511 Rembrandt,89070,discoverer or inventor
+308,architect,J.J. Mccarthy is an architect.,James Joseph McCarthy,82295,occupation
+309,Charlie Chaplin,Charlie Chaplin was an actor that directed and starred in the film the kid.,The Kid,88936,film editor
+310,"outer membrane protein assembly complex, YaeT protein KPHS_09240","outer membrane protein assembly complex, YaeT protein KPHS_09240 encodes outer membrane protein assembly complex, YaeT protein KPHS_0924.","Outer membrane protein assembly complex, YaeT protein KPHS_09240",20014,encoded by
+311,Social Liberal Party,The Social Liberal Party has HQ at Republic of Moldova.,Moldova,49636,headquarters location
+312,lawyer,John C. Spencer's profession is lawyer.,John C. Spencer,82278,occupation
+313,Susquehanna River,The Susquehanna River connects with the west branch susquehanna river at the mouth.,West Branch Susquehanna River,89192,mouth of the watercourse
+314,Europe,Germany is located in Europe.,Germany,6525,continent
+315,Japan,Nikkyo Nisan is from Japan.,Nikkyō Niwano,74671,country of citizenship
+316,Edgard Varèse,Varese sarabande was named after Edagrd Varese,Varèse Sarabande,88330,named after
+317,Bone Marrow Donors Worldwide,Bone Marrow Donors Worldwide  organization originated at Leiden,Leiden,13711,location of formation
+318,Giovanni Malpaghini,Giovanni Malpaghini  is a student of Petrarch,Petrarch,7116,student of
+319,West Coast jazz,Dave Brubeck plays West Coast jazz must.,Dave Brubeck,71769,genre
+320,Match Day II,Match Day II expressess association football.,football,5529,depicts
+321,hypothetical protein Caur_1843,Hypothetical protein Caur_1843 is the gene that encodes hypothetical protein Caur_1843.,Hypothetical protein Caur_1843,8267,encoded by
+322,Wim Wenders,Wim Wenders produced lisbon story,Lisbon Story,85522,producer
+323,Order of Saint Catherine,Peter the Great donates Order of Saint Catherine.,Peter the Great,61821,donated by
+324,Richard Pryor,Richard Pryor influenced Mike Birbiglia.,Mike Birbiglia,89057,influenced by
+325,DreamWorks Records,Eric healtherly's label is dreamworks records.,Eric Heatherly,83901,record label
+326,Paris,"Marian Hannah Winter was born in Paris, France.",Marian Hannah Winter,76686,place of death
+327,Tijuana,Mike Seal died in Tijuana.,Mike Seal,70897,place of birth
+328,Steven Berkoff,Steven Berkoff wrote Decadence.,Decadence,84376,screenwriter
+329,white,The color of the flag of El Salvador is white.,flag of El Salvador,5256,color
+330,Drake & Josh Go Hollywood,Drake & Josh Go Hollywood  has its designs created by Los Angeles,Los Angeles,62861,production designer
+331,multiplayer video game,J-League Tactics Soccer offers multiplayer gameplay.,J-League Tactics Soccer,84203,game mode
+332,Guayanilla,Guayanilla is a municipality on the southern coast of Puerto Rico.,Puerto Rico,89202,contains administrative territorial entity
+333,Hong Kong,Men Bo was filmed in Hong Kong.,Mr. Mumble,78654,country of origin
+334,New Zealand,New Zealand  political territory belongs to jurisdiction of Member of the New Zealand House of Representative,Member of the New Zealand Parliament,31390,applies to jurisdiction
+335,United States Congress,Patient Protection and Affordable Care Act was legislated by the United States Congress.,Patient Protection and Affordable Care Act,49580,legislated by
+336,A Band Apart,Bande à part is part of A Band Apart.,Bande à part,825,named after
+337,Keef Hartley,Keef Hartley has the album lancashire hustler.,Lancashire Hustler,81891,performer
+338,children's film,Moshi Monsters: The movie genre is children's film,Moshi Monsters: The Movie,71823,genre
+339,League of European Research Universities,League of European Research Universities is the parent organization of University of Milan.,University of Milan,4780,parent organization
+340,Afghanistan,Habibullah died in Afghanistan.,Habibullah,77336,place of death
+341,Paris,Javier Moro Leon was born in Paris.,Xavier Moro León,10769,place of birth
+342,India,Sumeep Kang is from India.,Smeep Kang,74495,country of citizenship
+343,Geoff Johns,Geoff Johns wrote Absolute Justice.,Absolute Justice,84399,screenwriter
+344,English,Bad Karma is filmed in English.,Bad Karma,81152,original language of film or TV show
+345,Vibrio cholerae O1 biovar El Tor str. N16961,Methyl-accepting chemotaxis protein VCA0974 is found in the taxon Vibrio cholerae O1 biovar El Tor str. N16961.,Methyl-accepting chemotaxis protein VCA0974,53019,found in taxon
+346,Jason of Star Command,Jason of Star Command demonstrates it.,astronaut,61845,depicts
+347,Street Sharks,Robert Askin made Street Sharks.,Robert Askin,27649,creator
+348,Francisella tularensis subsp. tularensis SCHU S4,Francisella tularensis subsp. tularensis SCHU S4 is where chitinase FTT_1768c is found.,Chitinase FTT_1768c,41887,found in taxon
+349,behavioral fear response,Apoptosis regulator Bcl-2 involved in behavioral fear response.,BCL2 apoptosis regulator,40329,biological process
+350,New Objectivity,New Objectivity was influenced by Art Deco,Art Deco,2973,influenced by
+351,endonuclease IV EF1736,Endonuclease IV EF1736 encodes endonuclease IV EF1736.,Endonuclease IV EF1736,37440,encoded by
+352,English,Ongka's Big Moka was first released to the English audience.,Ongka's Big Moka,81401,original language of film or TV show
+353,United States of America,"Lexington, Massachusetts is located in the United States of America.",Lexington,84854,country
+354,fantasy,the fantasy was written by the genre is allowed to show.,The Chick is in the Mail,72808,genre
+355,single-player video game,bionicle heroes can play in single-player video game.,Bionicle Heroes,84116,game mode
+356,United States of America,Bari Moral is from the United States of America,Bari Koral,73343,country of citizenship
+357,Nura bint Abdulaziz,Nura bint Abdulaziz has the toponym Noura bint Abdul Rahman Al Saud.,Noura bint Abdul Rahman Al Saud,873,named after
+358,Étienne-Jules Ramey,Etienne- Jules Ramey is the teacher of Jean-Baptiste-Jules Klagmann.,Jean-Baptiste-Jules Klagmann,101,student of
+359,Royal Navy,Royal Navy manages HMS Invincible,HMS Invincible,23180,operator
+360,drama film,Old-Fashioned World is a drama film.,Piccolo mondo antico,72114,genre
+361,Wikimedia Foundation,Wikimedia Foundation has Lila Tretikoy as CEO.,Lila Tretikov,29228,chief executive officer
+362,Pakistan,sikander bakht (cricketer) is from Pakistan.,Sikander Bakht,74025,country of citizenship
+363,Anatolia,shamans invasion of Asia took place in Anatolia,Shahin's invasion of Asia Minor,87855,location
+364,Neisseria meningitidis MC58,ubiquinone/menaquinone biosynthesis methyltransferase NMB0743 is found in Neisseria meningitidis MC58,Ubiquinone/menaquinone biosynthesis methyltransferase NMB0743,2744,found in taxon
+365,Vulgate,Jerome was a translator of Vulgate.,Jerome,61484,translator
+366,ITER,ITER is Magnetic confinement fusion was sponsored by United States of America.,United States of America,3838,sponsor
+367,Richard P. Stanley,Richard P. Stanley has Gian-Carlo Rota as doctoral advisor.,Gian-Carlo Rota,11496,doctoral advisor
+368,Enterobacter cloacae subsp. cloacae ATCC 13047,Tyramine oxidase ECL_02157 belongs to Enterobacter cloacae subsp. cloacae ATCC 13047.,Tyramine oxidase ECL_02157,34912,found in taxon
+369,putative rRNA methylase EAE_06240,putative rRNA methylase EAE_06240 encode putative rRNA methylase EAE_06240.,Putative rRNA methylase EAE_06240,6119,encoded by
+370,Warsaw,B.r.o. was born in Warsaw.,B.R.O,70578,place of birth
+371,Finland,Heidi Kivelä was born in Finland,Heidi Pihlaja,52713,place of birth
+372,metal ion binding,A bond represents molecular function of peptidyl-dipeptidase A protein SMc04403 metal ion binding,Peptidyl-dipeptidase A protein SMc04403,996,molecular function
+373,metabolism,Orotidine 5'-phosphate decarboxylase ECUMN_1584 is used in metabolism.,Orotidine-5'-phosphate decarboxylase ECUMN_1584,799,biological process
+374,1991 Trans-Tasman Test series,1991 Trans-Tasman Test series is the name of the tournament.,Australia,9646,participating team
+375,Arabic,As-salam al-malaki al urduni is composed in Arabic.,The Royal Anthem of Jordan,89034,language of work or name
+376,Austria,whores glory is from Austria.,Whores' Glory,78653,country of origin
+377,Elio Scardamaglia,The producer of Cento anni d'amore was Elio Scardamaglia,Cento anni d'amore,41661,executive producer
+378,Luis Buñuel,Luis Buñuel edited the film land without bread.,Land Without Bread,88919,film editor
+379,Baarderadeel,Baarderadeel administrative country subdivision has coat of arms of Baarderadeel as coat of arms,coat of arms of Baarderadeel,40720,coat of arms
+380,punk rock,No stars just talent is punk rock,"No Stars, Just Talent",71793,genre
+381,American football player,Rashad Butler is an American Football Player.,Rashad Butler,82099,occupation
+382,David Gerrold,The Martian Child was written by David Gerrold.,The Martian Child,85181,author
+383,Czech Republic,Miroslav Etzler is originally from Czech Republic,Miroslav Etzler,73373,country of citizenship
+384,U.S. Electoral College,The U.S. Electoral College is responsible for the appointment of President of the United States of America.,President of the United States,32915,appointed by
+385,house mouse,House mouse is where the Inhibitor of growth protein 5 is found.,"Inhibitor of growth family, member 5",2785,found in taxon
+386,discus throw,a sport did Fausto Acke participate in discus throw,Fausto Acke,7511,sports discipline competed in
+387,Lorraine Hansberry,Lorraine Hansberry was one of Bell Hooks's influences.,bell hooks,89049,influenced by
+388,CEP97,CEP97 encoded Centrosomal protein of 97 kDA,Centrosomal protein 97,6978,encoded by
+389,Italy,Italy is the country filmed in the trial.,The Trial,79234,country of origin
+390,Sarajevo,Sarajevo   city is center of administration for Bosnia and Herzegovina,Bosnia and Herzegovina,46212,capital of
+391,Filippo I Colonna,Filippo I Colonna has Princes of Paliano as their title,Princes of Paliano,28187,noble title
+392,Billy Bitzer,billy bitzer,Love in the Hills,88054,director of photography
+393,"2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase CTL0693","2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase CTL0693 encodes 2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase CTL0693 .","2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase CTL0693",55017,encoded by
+394,model,Shoko Wakabayashi's profession was as a model.,Shōko Wakabayashi,82380,occupation
+395,Hartford,Biagio ciotto was born in Connecticut.,Biagio Ciotto,70579,place of birth
+396,Japan,Doraemon the movie 2006 is from the country of Japan.,Doraemon: Nobita's Dinosaur 2006,78849,country of origin
+397,Germany,Ida Noddak came from Germany.,Ida Noddack,74564,country of citizenship
+398,relief pitcher,Saul Riveras is a relief pitcher in baseball.,Saúl Rivera,79304,position played on team / speciality
+399,Charles Babbage,The Charles Babbage Institute is named after Charles Babbage,Charles Babbage Institute,88328,named after
+400,Recoleta Cemetery,leandro n. alem is buried in Recoleta Cemetery,Leandro N. Alem,88084,place of burial
+401,Austria,Austria is the political territory linked to the Member of the National Council of Austria.,member of the National Council of Austria,3143,applies to jurisdiction
+402,Ostatnia misja,Grzegorz Skawiński has composed Ostatnia misja artwork.,Grzegorz Skawiński,7038,composer
+403,collage,Collage is made by collage.,collage art,21498,product or material produced
+404,Peter Gifford,Peter Gifford is one of the founders of wicked weasel,Wicked Weasel,88254,founded by
+405,Cameron Crowe,Cameron Crowe directed the almost famous movie,Almost Famous,83186,director
+406,Sidney Salkow,Sidney Salkow directed the quick gun,The Quick Gun,83223,director
+407,Slovenia,Paramorariopsis anae is endemic to Slovenia.,Paramorariopsis anae,53469,endemic to
+408,Homo sapiens,Rab11 family-interacting protein 4 found Homo sapiens,RAB11 family interacting protein 4,3351,found in taxon
+409,Gardnerella vaginalis ATCC 14019,taxon alanine racemase HMPREF0421_20911 belong to Gardnerella vaginalis ATCC 14019,alanine racemase HMPREF0421_20911,23635,found in taxon
+410,Pierre-André de Gélas de Léberon,Pierre-André de Gélas de Léberon died in Sainte-Livrade-sur-Lot.,Sainte-Livrade-sur-Lot,10272,place of death
+411,Bamako,The administrative area in Mali is in Bamako.,Mali,89195,contains administrative territorial entity
+412,historical Jesus,Historical Jesus is a pupil of John the Baptist.,John the Baptist,3316,student of
+413,Blom,frans blom surname is blom.,Frans Blom,44,family name
+414,Cosmo,Cosmo release presented Doug Clifford.,Doug Clifford,20653,performer
+415,covered bridge,ada covered bridge is a covered bridge.,Ada Covered Bridge,83726,instance of
+416,single-player video game,A feature of Fire Pro Wrestling: 2nd Bout is a single player video game.,Fire Pro Wrestling 2nd Bout,84251,game mode
+417,24Kitchen,24Kitchen  television channel  is responsible for broadcasting to Netherlands,Netherlands,6885,licensed to broadcast to
+418,Onyx,Onyx recorded shut 'em down.,Shut 'Em Down,81670,performer
+419,La Ciénaga,La Ciénaga was where it was filmed.,The Holy Girl,3893,filming location
+420,Raleigh County,"Beaver is in Raleigh County, West Virginia.",Beaver,85554,located in the administrative territorial entity
+421,World War II,carl gustaf emil mannerheim took part in World War II,Carl Gustaf Emil Mannerheim,85955,conflict
+422,Grade I listed building,Grade I listed building represents the heritage status given to University College.,University College,5244,heritage designation
+423,Homo sapiens,Equilibrative nucleoside transporter 2 is found in Homo sapiens,Solute carrier family 29 member 2,2042,found in taxon
+424,road bicycle racing,"Coen Vermeltfoort is sports person of road bicycle racing,",Coen Vermeltfoort,25479,sport
+425,Bacteroides thetaiotaomicron VPI-5482,Cation efflux system protein BT_4694 is found in Bacteroides thetaiotaomicron VPI-5482.,cation efflux system protein BT_4694,57618,found in taxon
+426,White Line Fever,The White Line Fever release is named after White Line Fever,White Line Fever,277,named after
+427,pitcher,Randy Tates is a pitcher.,Randy Tate,79339,position played on team / speciality
+428,Acinetobacter pittii PHEA-2,BDGL_002669 found is Acinetobacter pittii PHEA-2,Cell division protein (in growth at septum) BDGL_002669,27171,found in taxon
+429,Roman Empire,Roman Empire is when it happened.,Helena Augusta,35969,time period
+430,male,Toni Mueller is Male.,Toni Müller,76381,sex or gender
+431,Nup133,Nup133 is the gene which encodes Nuclear pore complex protein Nup133,Nucleoporin 133,8012,encoded by
+432,Darwin,The boming of Darwin took place at Darwin.,Bombing of Darwin,87805,location
+433,emo,The type of music on the academy is emo.,The Academy,71801,genre
+434,Niklaus Wirth,Niklaus Wirth wrote algorithms + data structures=programs,Algorithms + Data Structures = Programs,85150,author
+435,classical music,Beethoven on Speed is classical music.,Beethoven on Speed,73033,genre
+436,George W. Towns,Towns county was named after Geroge W. Towns.,Towns County,88321,named after
+437,Misia,Misia is a japanese singer who released just ballade.,Just Ballade,81938,performer
+438,Neisseria meningitidis MC58,S-ribosylhomocysteinase NMB1981 belongs to the taxon Neisseria meningitidis MC58.,S-ribosylhomocysteinase NMB1981,26493,found in taxon
+439,Val McDermid,Val McDermid authored A Place of Execution.,A Place of Execution,85031,author
+440,painting,Painting is a process used for fabrication of painting.,painting,18619,fabrication method
+441,Central European Time,"The timze zone of haaren, north brabant is Central European Time",Haaren,88671,located in time zone
+442,United States of America,TheVanishing Shadow was released by the USA.,The Vanishing Shadow,78395,country of origin
+443,Sun,2503 Lianing Asteroid moves around the celestial body of the sun.,2503 Liaoning,87863,parent astronomical body
+444,Los Angeles,Wild man fischer was born in Los Angeles.,Wild Man Fischer,70159,place of birth
+445,2-1-0 points system,A 2-1-0 points system was used as the rules of league points for 1990–91 Cypriot Fourth Division (Limassol-Paphos Group).,1990–91 Cypriot Fourth Division (Limassol-Paphos Group),7957,league points system
+446,Ivan Illich,Ivan Illich influenced Bob Black,Bob Black,89043,influenced by
+447,Saint Clotilde,Saint Clotide is the notable work of Jean-Baptiste-Jules Klagmann,Jean-Baptiste-Jules Klagmann,99,notable work
+448,B. Nagi Reddy,"B. Nagi Reddy produced ""Gundamma Katha"".",Gundamma Katha,85436,producer
+449,Square Enix,Square Enix developed The 3rd Birthday.,The 3rd Birthday,87574,developer
+450,Bradyrhizobium japonicum USDA 110,Bradyrhizobium japonicum USDA 110 is the taxon where found the two-component response regulator bll6925.,Two-component response regulator bll6925,34325,found in taxon
+451,Lydia R. Bailey,"Lydia R. Bailey released A Memoir of the Life and Character of the Late Joseph Parrish, M.D.","A Memoir of the Life and Character of the Late Joseph Parrish, M.D.",22476,publisher
+452,New Zealand,Beth Chote is from New Zealand.,Beth Chote,73983,country of citizenship
+453,male,the eugenium sales gender is male,Eugênio Sales,74883,sex or gender
+454,Sinorhizobium medicae WSM419,spermidine/putrescine ABC transporter ATPase Smed_2167 found is Sinorhizobium medicae WSM419.,Spermidine/putrescine ABC transporter ATPase Smed_2167,38159,found in taxon
+455,SMAP,SMAP did the album Bang! Bang! Bakansu!,Bang! Bang! Vacance!,81654,performer
+456,Spanish,Túpac Amaru speak in Spanish.,Túpac Amaru II,58193,"languages spoken, written or signed"
+457,Max Adler,Max Adler was the founder of Adler Planetarium.,Adler Planetarium,88227,founded by
+458,AQ Interactive,AQ Interactive published victorious boxers: revolution.,Victorious Boxers: Revolution,86621,publisher
+459,"Ahome, Los Mochis","Juan Carlos Sanchez, Jr. was born in Ahome, Los Mochis.",Juan Carlos Sánchez,71638,place of birth
+460,Norway,Lill Egede-Nissens is from Norway.,Lill Egede Nissen,74631,country of citizenship
+461,Robert Fuchs,Robert Fuchs was the teacher of Robert Stolz.,Robert Stolz,7302,student of
+462,Camuy,Camuy is an administrative child area of Puerto Rico.,Puerto Rico,89198,contains administrative territorial entity
+463,Carol Reed,"Carol Reed directed ""Penny Paradise"".",Penny Paradise,83331,director
+464,Kristian von Alfthan,Kristian von Alfthan is the offspring of George von Alfthan.,George von Alfthan,138,father
+465,Bremen,Bremen Frank Schildt work,Frank Schildt,67,work location
+466,Eger,Janos Vass was born in Eger.,János Vass,71316,place of birth
+467,rutherfordium,Rutherfordium was discovered in Dubna.,Dubna,6022,location of discovery
+468,United States of America,"The United States of America is the administrative division of Douglas County, Colorado.",Douglas County,84998,country
+469,A. R. Murugadoss,A.R. Murugadoss directed Ghajini.,Ghajini,83147,director
+470,Oceanside,Richard e. cunha was decease at Oceanside,Richard E. Cunha,76451,place of death
+471,The Piano: An Encyclopedia,collectable is piano a main subject of the Piano: An Encyclopedia.,piano,3957,main subject
+472,Sermon and Deeds of the Antichrist,Sermon and Deeds of the Antichrist expresses merchant.,merchant,11331,depicts
+473,football,Egecan Cevir was a part of the sport of football.,Egecan Çevir,21,sport
+474,cytochrome oxidase subunit II SRU_2100,Cytochrome oxidase subunit II SRU_2100 encodes that.,Cytochrome oxidase subunit II SRU_2100,15041,encoded by
+475,female,Electra’s gender is female.,Elektra,75683,sex or gender
+476,Jennifer Connelly,Jennifer Connelly inspired Princess Jasmine,Princess Jasmine,63602,inspired by
+477,Lilly Wachowski,Lilly Wachowski directed speed racer,Speed Racer,83323,director
+478,Mycoplasma pneumoniae M129,ribosome-binding ATPase YchF MPN026 belongs to the Mycoplasma pneumoniae M129 taxin,Ribosome-binding ATPase YchF MPN026,56641,found in taxon
+479,The Kiss,The Kiss was a work of art commissioned by France.,France,4238,commissioned by
+480,Cyprus Football Association,Cyprus Football Association the organizer of 1990–91 Cypriot Fourth Division (Limassol-Paphos Group),1990–91 Cypriot Fourth Division (Limassol-Paphos Group),7956,organizer
+481,Nicki Knowles,Nicki Knowles had Suzi Perry as their girlfriend,Suzi Perry,7033,unmarried partner
+482,Bandai Namco Amusement,Bandai Namco Amusement published Pac-Man vs.,Pac-Man Vs.,86634,publisher
+483,Ray Bradbury,Ray Bradbury was the screen writer for Icarus Montgolfier Wright.,Icarus Montgolfier Wright,84336,screenwriter
+484,male,Shim Un-seob is a male.,Sim Woon-sub,46959,sex or gender
+485,female,katarina cas's gender is female.,Katarina Čas,75826,sex or gender
+486,Marvel Entertainment,Marvel Entertainment filmed Wolverine.,The Wolverine,87383,production company
+487,pop music,Aarons Party's song come get it is of the pop music genre.,Aaron's Party,72418,genre
+488,Twickenham,George Edmund died in Twickenham,George Edmund Butler,76871,place of death
+489,Microscopy and Microanalysis,Microscopy and Microanalysis contains Changes in F-actin organization induced by hard metal particle exposure in rat pulmonary epithelial cells as observed by laser scanning confocal microscopy,Changes in F-actin organization induced by hard metal particle exposure in rat pulmonary epithelial cells as observed by laser scanning confocal microscopy,8524,published in
+490,Brussels,Brussels city is the end point of Brussels Cycling Classic 2015,2015 Brussels Cycling Classic,27195,destination point
+491,Chlamydia trachomatis D/UW-3/CX,50S ribosomal protein L14 CT_518 found in Chlamydia trachomatis D/UW-3/CX.,50S ribosomal protein L14 CT_518,8557,found in taxon
+492,Robbi Sapinggi,Robbi Sapinggi died in Mount Kinabalu.,Mount Kinabalu,4098,place of death
+493,Guidelines for Open Educational Resources in Higher Education,"Guidelines for Open Educational Resources in Higher Education collectable was published by United Nations Educational, Scientific and Cultural Organization.",UNESCO,24673,publisher
+494,Moskva River,Moskva River  watercourse is situated close to Moscow,Moscow,1221,located in or next to body of water
+495,rock music,Crabby Appleton records rock music.,Crabby Appleton,72620,genre
+496,PIP5K1A,PIP5K1A encodes Phosphatidylinositol 4-phosphate 5-kinase type-1 alpha.,Phosphatidylinositol-4-phosphate 5-kinase type 1 alpha,29157,encoded by
+497,Jeff Beal,Jeff Beal got involved in the realms of the unreal.,In the Realms of the Unreal,85304,composer
+498,Universal Music Group,Universal Music Group signed b-projekt,B-Projekt,83892,record label
+499,Gargamel,Gargamel  fictional character was created by Peyo,Peyo,5840,creator
