@@ -125,11 +125,11 @@ for item in distribution['rel']:
                         row.answer)
                 tab2_similar = tab2_similar.append(tab2_new)
                 
-        tab_similar = pd.concat([tab1_similar,tab2_similar], axis = 0).head(10)
+        tab_similar = pd.concat([tab1_similar,tab2_similar], axis = 0) #.head(15)
         #tab_similar = tab_similar.drop_duplicates(keep = 'first').head(10)
         tab_predicate = tab_predicate.append(tab_similar)
         
 #tab_predicate = tab_predicate.drop_duplicates(keep='first')        
-tab_predicate.to_csv("../../data/Postprocessing/Extended_Dataset10.csv",index= False)
+tab_predicate.to_csv("../../data/Postprocessing/Extended_Dataset_full.csv",index= False)
 print(tab_predicate.shape)
 print("YES")

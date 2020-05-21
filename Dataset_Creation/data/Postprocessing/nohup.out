@@ -1,0 +1,8 @@
+  File "survey.py", line 1
+    mport pandas as pd
+               ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "survey.py", line 2, in <module>
+    from SPARQLWrapper import SPARQLWrapper , JSON
+ImportError: No module named 'SPARQLWrapper'
