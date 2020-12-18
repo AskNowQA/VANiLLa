@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Question Answering (QA) has been an active field of research in the past years with significant developments in the area of Question Answering over Knowledge Graphs (KGQA). In spite of all the notable advancements, current KGQA datasets only provide the answers as resource or literals rather than full sentences. Thus, template-based verbalizations are usually employed for representing the answers in natural language. This deficiency is a ramification of the scarcity of datasets for verbalizing KGQA responses. Hence, we provide the VANiLLa dataset which aims at reducing this gap. Our dataset consists of over 100k simple questions adapted from the CSQA and SimpleQuestionsWikidata datasets along with their answers in natural language sentences. In this paper, we describe the dataset creation process and dataset characteristics. We also present multiple baseline models adapted from current state-of-the-art Natural Language Generation (NLG) architectures. We believe that this dataset will allow researchers to focus on finding suitable methodologies and architectures for answer verbalization.
+In the last years, there have been significant developments in the area of Question Answering over Knowledge Graphs (KGQA). Despite all the notable advancements, current KGQA datasets only provide the answers as the direct output result of the formal query, rather than full sentences incorporating question context. For achieving coherent answers sentence with the question's vocabulary,  template-based verbalization so are usually employed for a better representation of answers, which in turn require extensive expert intervention. Thus, making way for machine learning approaches; however, there is a scarcity of datasets that empower machine learning models in this area. Hence, we provide the VANiLLa dataset which aims at reducing this gap by offering answers in natural language sentences. The answer sentences in this dataset are syntactically and semantically closer to the question than to the triple fact. Our dataset consists of over 100k simple questions adapted from the CSQA and SimpleQuestionsWikidata datasets and generated using a semi-automatic framework. We also present results of training our dataset on multiple baseline models adapted from current state-of-the-art Natural Language Generation (NLG) architectures. We believe that this dataset will allow researchers to focus on finding suitable methodologies and architectures for answer verbalization.
 
 ## Dataset
 
@@ -22,16 +22,16 @@ Our dataset contains over 100k examples with a 80% (train) - 20% (test) split. E
 ## Baseline Models
 
 We decided to use some conventional sequence-to-sequence models following the underlying Encoder-Decoder pipeline:
-* BL1: Sequence-to-Sequence model with attention mechanism
-* BL2: Convolution based Encoder-Decoder model
-* BL3: Transformer
+* Sequence-to-Sequence model with attention mechanism
+* Convolution based Encoder-Decoder model
+* Transformer
 
 ## Experimental Results
 
 | Baseline Model | PPl | Precision | BLEU |
 | ------------- | ------------- | ------------- | ------------- |
-| BL1 | 27.91 | 19.84 | 16.66 |
-| BL2 | 87.67 | 70.50 | 15.42 |
-| BL3 | **12.10** | **76.00** |  **30.80** |
+| Seq2Seq with Attention | 27.91 | 19.84 | 16.66 |
+| CNN Enc-Dec | 87.67 | 70.50 | 15.42 |
+| Transformer | **12.10** | **76.00** |  **30.80** |
 
 
