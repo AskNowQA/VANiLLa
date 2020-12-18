@@ -19,14 +19,14 @@ Our dataset contains over 100k examples with a 80% (train) - 20% (test) split. E
 }
 ```
 
-## Baseline Models
+## Experimental Results
+
+### Baseline Models
 
 We decided to use some conventional sequence-to-sequence models following the underlying Encoder-Decoder pipeline:
 * Sequence-to-Sequence model with attention mechanism
 * Convolution based Encoder-Decoder model
 * Transformer
-
-## Experimental Results
 
 | Baseline Model | PPl | Precision | BLEU |
 | ------------- | ------------- | ------------- | ------------- |
