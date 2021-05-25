@@ -19,6 +19,10 @@ Our dataset contains over 100k examples with a 80% (train) - 20% (test) split. E
 }
 ```
 
+## Paper
+
+Please see https://arxiv.org/abs/2105.11407 for details about the dataset.
+
 ## Experimental Results
 
 ### Baseline Models
